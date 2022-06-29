@@ -1,0 +1,88 @@
+{
+    "current": 1, // 当前实验步骤，每一步骤完成后前端发送通知，进行调整
+    "PN_ImageAmount": 120, // 当前实验步骤下的测试图片数量
+    "SFAData": // 治疗进度信息
+  	[
+        {
+            "date": "2022-02-18", // 治疗日期
+            "dose": 18, //治疗的词汇数量（治疗剂量）
+        },
+        {
+            "date": "2022-02-19",
+            "dose": 28,
+        },
+        {
+            "date": "2022-02-20",
+            "dose": 39,
+        },
+        {
+            "date": "2022-02-22",
+            "dose": 81,
+        },
+        {
+            "date": "2022-02-23",
+            "dose": 47,
+        },
+        {
+            "date": "2022-02-24",
+            "dose": 20,
+        },
+        {
+            "date": "2022-02-25",
+            "dose": 24,
+        },
+        {
+            "date": "2022-02-28",
+            "dose": 35,
+        }
+    ],
+}
+
+
+{
+  "TherapyRecord": [
+    {
+      "id": "汽车",
+      "PictureNaming": [
+        {
+          "result": false,
+          "time": 20.0,
+          "date": "2022-02-28"
+        },
+        {
+          "result": true,
+          "time": 3.2,
+          "date": "2022-03-12"
+        }
+      ],
+      "SFA": [
+        {
+          "reaction": [
+            {
+              "relationship": "属于",
+              "feature": "交通工具"
+            },
+            {
+              "relationship": "能够",
+              "feature": "驾驶"
+            }
+          ],
+          "date": "2022-02-28"
+        },
+        {
+          "reaction": [
+            {
+              "relationship": "属于",
+              "feature": "交通工具"
+            },
+            {
+              "relationship": "能够",
+              "feature": "驾驶"
+            }
+          ],
+          "date": "2022-02-28"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+﻿Id,Label,concept,familiarity,concretness,上级类别,superior category,下级类别,subcategory,coverage
+安全带,安全带,Safety belt,9,9,人造物,artificial object,工具,tool,0.851344643
+安全帽,安全帽,Safety hat,8.33,9,人造物,artificial object,工具,tool,0.717618816
+安慰奶嘴,安慰奶嘴,pacifier,9,9,人造物,artificial object,餐具,tableware,0.663182346
+鹌鹑,鹌鹑,quail,7,9,动物,animal,鸟,bird,0.731580896
+鹌鹑蛋,鹌鹑蛋,Quail egg,9,9,食物,food,固态干粮,solid food,0.741643951
+按键,按键,Key,9,9,人造物,artificial object,工具,tool,0.583302029
+按摩器,按摩器,Massager,7,9,人造物,artificial object,电器,electric appliance,0.604095563
+按钮,按钮,Button,9,8.33,人造物,artificial object,电器,electric appliance,0.556667134
+八宝粥,八宝粥,Mixed congee,9,9,食物,food,酒水饮料,drinks,0.675578572
+八哥,八哥,Myna,8,9,动物,animal,鸟,bird,0.784550909
+巴士,巴士,Bus,9,9,交通工具,transportation,车,vehicle,0.690136074
+芭蕾舞裙,芭蕾舞裙,ballet skirt,6.67,9,人造物,artificial object,服饰,dress,0.678969923
+霸王龙,霸王龙,Tyrannosaurus Rex,7,8.33,动物,animal,陆生动物,terrestrial animal,0.806241286
+吧台,吧台,Bar counter,9,9,人造物,artificial object,建筑,building,0.524611354
+白菜,白菜,Chinese cabbage,9,9,植物,plant,蔬菜,vegetable,0.767599337
+白饭,白饭,Plain white rice,9,9,食物,food,固态干粮,solid food,0.686959934
+白果,白果,Ginkgo biloba,5.33,7.67,植物,plant,水果,fruit,0.707404174
+白桦树,白桦树,silver birch,5.67,9,植物,plant,树木,tree,0.765604648
+白酒,白酒,Liquor and Spirits,9,9,食物,food,酒水饮料,drinks,0.642174559
+白萝卜,白萝卜,ternip,9,9,植物,plant,蔬菜,vegetable,0.785760504
+白皮松,白皮松,white-barked pine,5.67,9,植物,plant,树木,tree,0.700071165
+白砂糖,白砂糖,White granulated sugar,9,9,食物,food,调料,seasoning,0.71119749
+白水,白水,plain water,9,9,食物,food,酒水饮料,drinks,0.672033898
+白糖,白糖,White sugar,9,9,食物,food,调料,seasoning,0.758719358
+白杨,白杨,poplar,8.67,9,植物,plant,树木,tree,0.71839939
+白蚁,白蚁,termite,8.67,9,动物,animal,昆虫,insect,0.718337399
+白银,白银,silver,9,7.67,自然物,natural object,自然物,natural object,0.646549103
+白粥,白粥,Rice Congee,9,9,食物,food,酒水饮料,drinks,0.724403507
+百合,百合,Lily,9,9,植物,plant,花草,flower,0.713184571
+百科全书,百科全书,encyclopedia,9,8.67,人造物,artificial object,工具,tool,0.605602916
+百事可乐,百事可乐,Pepsi Cola,9,8.67,食物,food,酒水饮料,drinks,0.703357957
+百香果,百香果,Passion fruit,9,9,植物,plant,水果,fruit,0.743507689
+柏树,柏树,Cypress,8.67,9,植物,plant,树木,tree,0.813829756
+柏油路,柏油路,Tar Road,9,9,人造物,artificial object,工具,tool,0.555466658
+摆钟,摆钟,Pendulum,9,9,人造物,artificial object,工具,tool,0.649634302
+扳手,扳手,Wrench,9,9,人造物,artificial object,工具,tool,0.598912189
+斑马,斑马,zebra,9,9,动物,animal,陆生动物,terrestrial animal,0.83589633
+板栗,板栗,Chinese chestnut,9,9,植物,plant,水果,fruit,0.71836532
+棒棒糖,棒棒糖,Lollipop,9,9,食物,food,固态干粮,solid food,0.68029754
+包,包,package,9,9,人造物,artificial object,工具,tool,0.576885058
+包装纸,包装纸,Packing paper,9,9,人造物,artificial object,工具,tool,0.571860929
+包子,包子,Steamed stuffed bun,9,9,食物,food,固态干粮,solid food,0.704766266
+薄荷,薄荷,Mint,9,9,植物,plant,水果,fruit,0.748492492
+宝石,宝石,gemstone,8.33,9,自然物,natural object,自然物,natural object,0.721706865
+保龄球,保龄球,bowling,9,9,人造物,artificial object,运动器材,sports equipment,0.660686918
+保鲜膜,保鲜膜,Fresh keeping film,9,9,人造物,artificial object,工具,tool,0.633436119
+保险柜,保险柜,Safe,9,9,人造物,artificial object,家具,furniture,0.645344432
+报警器,报警器,A burglar alarm,9,9,人造物,artificial object,电器,electric appliance,0.570721793
+报纸,报纸,Newspaper,9,9,人造物,artificial object,工具,tool,0.590900367
+豹子,豹子,leopard,9,9,动物,animal,陆生动物,terrestrial animal,0.849818343
+鲍鱼,鲍鱼,Abalone,9,9,动物,animal,水生动物,aquatic animal,0.696748297
+爆米花,爆米花,popcorn,9,9,食物,food,固态干粮,solid food,0.645013613
+杯垫,杯垫,Cup pad,9,9,人造物,artificial object,餐具,tableware,0.640102032
+杯子,杯子,glass,9,9,人造物,artificial object,餐具,tableware,0.682224026
+背包,背包,knapsack,9,9,人造物,artificial object,工具,tool,0.595162334
+背带裤,背带裤,rompers,9,9,人造物,artificial object,服饰,dress,0.733151553
+背心,背心,vest,9,9,人造物,artificial object,服饰,dress,0.557870113
+被子,被子,quilt,9,9,人造物,artificial object,工具,tool,0.70757009
+绷带,绷带,bandage,7.67,9,人造物,artificial object,医疗用品,medical supplies,0.641305524
+蹦床,蹦床,Trampoline,9,9,人造物,artificial object,玩具,toy,0.52047449
+鼻环,鼻环,Nose ring,7,9,人造物,artificial object,服饰,dress,0.566346062
+鼻烟壶,鼻烟壶,snuff bottle,9,9,人造物,artificial object,工具,tool,0.470206599
+鼻子,鼻子,nose,9,9,身体部位,body part,身体部位,body part,0.700202786
+匕首,匕首,dagger,9,9,人造物,artificial object,武器,weapon,0.641553759
+比基尼泳装,比基尼泳装,Bikini swimwear,9,9,人造物,artificial object,服饰,dress,0.726530435
+比萨,比萨,Pisa,9,9,食物,food,固态干粮,solid food,0.637715016
+笔记本电脑,笔记本电脑,Notebook computer,9,9,人造物,artificial object,电器,electric appliance,0.726412797
+笔芯,笔芯,Refill,9,9,人造物,artificial object,工具,tool,0.667196535
+碧螺春,碧螺春,Biluochun Tea,9,9,食物,food,酒水饮料,drinks,0.699788086
+壁橱,壁橱,closet,9,9,人造物,artificial object,家具,furniture,0.577979676
+壁画,壁画,Mural,9,7.67,人造物,artificial object,建筑,building,0.557097819
+避雷针,避雷针,Lightning arrester,9,9,人造物,artificial object,工具,tool,0.589116143
+避孕套,避孕套,Condom,9,9,人造物,artificial object,工具,tool,0.579501223
+蝙蝠,蝙蝠,bat,9,9,动物,animal,鸟,bird,0.788097721
+鞭子,鞭子,whip,9,9,人造物,artificial object,武器,weapon,0.569204816
+扁豆,扁豆,Lentils,6.33,9,植物,plant,蔬菜,vegetable,0.772849764
+变色龙,变色龙,Chameleon,9,9,动物,animal,陆生动物,terrestrial animal,0.73552403
+便盆,便盆,A potty,6.33,9,人造物,artificial object,工具,tool,0.552072642
+辫子,辫子,Braid,9,9,身体部位,body part,身体部位,body part,0.562985572
+槟榔,槟榔,Betel nut,9,9,植物,plant,水果,fruit,0.651813272
+冰雹,冰雹,hail,9,9,自然物,natural object,自然物,natural object,0.693773752
+冰棍,冰棍,Popsicle,9,9,食物,food,固态干粮,solid food,0.769051896
+冰红茶,冰红茶,Ice Black Tea,9,9,食物,food,酒水饮料,drinks,0.732357278
+冰咖啡,冰咖啡,Iced Coffee,9,9,食物,food,酒水饮料,drinks,0.713914319
+冰块,冰块,Ice block,9,9,自然物,natural object,自然物,natural object,0.695051871
+冰淇淋,冰淇淋,Ice cream,9,9,食物,food,固态干粮,solid food,0.67959131
+冰淇淋蛋糕,冰淇淋蛋糕,Ice cream cake,9,9,食物,food,固态干粮,solid food,0.718385344
+冰球,冰球,ice hockey,6,9,人造物,artificial object,运动器材,sports equipment,0.560876787
+冰山,冰山,iceberg,9,9,人造物,artificial object,建筑,building,0.622700317
+冰糖,冰糖,Ice sugar,9,9,食物,food,调料,seasoning,0.692197991
+冰糖葫芦,冰糖葫芦,Bingtanghulu Crispy Sugar-Coated Fruit on a Stick,9,9,食物,food,固态干粮,solid food,0.679697065
+冰箱,冰箱,Refrigerator,9,9,人造物,artificial object,电器,electric appliance,0.68782897
+兵马俑,兵马俑,Terra Cotta Warriors,9,9,人造物,artificial object,建筑,building,0.6300941
+饼干,饼干,Biscuits,9,9,食物,food,固态干粮,solid food,0.652486937
+波斯猫,波斯猫,Persian cat,8.33,9,动物,animal,陆生动物,terrestrial animal,0.776415205
+玻璃,玻璃,Glass,9,9,人造物,artificial object,工具,tool,0.609622058
+玻璃切割机,玻璃切割机,Glass cutting machine,5.67,9,人造物,artificial object,电器,electric appliance,0.724073122
+玻璃水杯,玻璃水杯,Glass water cup,9,9,人造物,artificial object,餐具,tableware,0.615728692
+玻璃珠,玻璃珠,Glass beads,9,9,人造物,artificial object,玩具,toy,0.620970003
+菠菜,菠菜,Spinach,9,9,植物,plant,蔬菜,vegetable,0.775442082
+菠萝汁,菠萝汁,Pineapple Juice,9,9,食物,food,酒水饮料,drinks,0.768561948
+簸箕,簸箕,Dustpan,9,9,人造物,artificial object,工具,tool,0.402751687
+捕蝇草,捕蝇草,Dionaea muscipula,9,9,植物,plant,花草,flower,0.815782044
+不倒翁,不倒翁,Tumbler,9,9,人造物,artificial object,玩具,toy,0.597936114
+布丁,布丁,Pudding,9,9,食物,food,固态干粮,solid food,0.700540738
+步枪,步枪,Rifle,8.33,9,人造物,artificial object,武器,weapon,0.624803828
+彩虹,彩虹,Rainbow,9,5,自然物,natural object,自然物,natural object,0.656635007
+彩票,彩票,lottery,9,8.33,人造物,artificial object,工具,tool,0.422125242
+彩旗,彩旗,Colored Flag,9,9,人造物,artificial object,工具,tool,0.616505205
+彩色电视,彩色电视,Color TV,9,9,人造物,artificial object,电器,electric appliance,0.619054627
+彩陶,彩陶,Coloured pottery,9,9,人造物,artificial object,工具,tool,0.613627755
+菜板,菜板,Chopping board,9,9,人造物,artificial object,工具,tool,0.706160408
+菜籽油,菜籽油,Rapeseed oil,9,9,食物,food,酒水饮料,drinks,0.734367367
+餐刀,餐刀,Knife,9,9,人造物,artificial object,餐具,tableware,0.77557399
+餐巾纸,餐巾纸,napkin,9,9,人造物,artificial object,工具,tool,0.710955172
+餐桌,餐桌,table,9,9,人造物,artificial object,家具,furniture,0.679298093
+蚕,蚕,Silkworm,9,9,动物,animal,昆虫,insect,0.75136151
+蚕豆,蚕豆,Broad bean,9,9,植物,plant,蔬菜,vegetable,0.645722605
+苍鹰,苍鹰,Goshawk,6.33,9,动物,animal,鸟,bird,0.77510808
+苍蝇,苍蝇,fly,9,9,动物,animal,昆虫,insect,0.735443366
+藏獒犬,藏獒犬,Tibetan Mastiff,8.67,9,动物,animal,陆生动物,terrestrial animal,0.703991172
+藏红花,藏红花,saffron,7.67,9,植物,plant,花草,flower,0.665632089
+草,草,grass,9,9,植物,plant,花草,flower,0.576155061
+草帽,草帽,Straw hat,9,9,人造物,artificial object,服饰,dress,0.568624694
+草莓,草莓,strawberry,9,9,植物,plant,水果,fruit,0.680553833
+草莓酱,草莓酱,strawberry jam,9,9,食物,food,调料,seasoning,0.711800274
+草鱼,草鱼,Grass Carp,8.67,9,动物,animal,水生动物,aquatic animal,0.747147998
+测谎仪,测谎仪,Lie Detector,9,9,人造物,artificial object,电器,electric appliance,0.497324282
+叉子,叉子,Fork,9,9,人造物,artificial object,餐具,tableware,0.62000304
+插头,插头,Plug,9,9,人造物,artificial object,电器,electric appliance,0.498032302
+插线板,插线板,Patch board,9,9,人造物,artificial object,电器,electric appliance,0.6659495
+插座,插座,Socket,9,9,人造物,artificial object,电器,electric appliance,0.60688234
+茶,茶,tea,9,9,食物,food,酒水饮料,drinks,0.641292562
+茶包,茶包,Tea bag,9,9,食物,food,酒水饮料,drinks,0.652656495
+茶壶,茶壶,teapot,9,9,人造物,artificial object,餐具,tableware,0.739049329
+茶花,茶花,Camellia,8.33,6.33,植物,plant,花草,flower,0.741061171
+茶碗,茶碗,Tea bowl,9,9,人造物,artificial object,餐具,tableware,0.601369258
+刹车踏板,刹车踏板,Brake pedal,9,9,人造物,artificial object,工具,tool,0.621086141
+蟾蜍,蟾蜍,Toad,9,9,动物,animal,陆生动物,terrestrial animal,0.752746161
+敞篷跑车,敞篷跑车,Roadster,9,9,交通工具,transportation,车,vehicle,0.684496252
+唱片,唱片,Record,9,9,人造物,artificial object,乐器,musical instrument,0.533636382
+炒锅,炒锅,Wok,9,9,人造物,artificial object,餐具,tableware,0.631300027
+炒面,炒面,Stir-Fried Noodles with Vegetables,9,9,食物,food,固态干粮,solid food,0.704344684
+车窗,车窗,car window,9,9,人造物,artificial object,工具,tool,0.603202329
+车库,车库,garage,9,8.67,人造物,artificial object,建筑,building,0.606607757
+车辆,车辆,vehicle,9,9,交通工具,transportation,车,vehicle,0.711328378
+车轮,车轮,wheel,9,9,人造物,artificial object,工具,tool,0.710663635
+车门,车门,car door,9,9,人造物,artificial object,工具,tool,0.694415174
+车票,车票,ticket,9,8.33,人造物,artificial object,工具,tool,0.554582944
+衬衫,衬衫,shirt,9,9,人造物,artificial object,服饰,dress,0.801231971
+蛏子,蛏子,Razor clam,9,9,动物,animal,水生动物,aquatic animal,0.683036955
+橙汁,橙汁,Orange Juice,9,9,食物,food,酒水饮料,drinks,0.809814682
+秤,秤,balance,9,9,人造物,artificial object,工具,tool,0.570309649
+尺子,尺子,Ruler,9,9,人造物,artificial object,工具,tool,0.634078715
+齿轮,齿轮,gear,9,9,人造物,artificial object,工具,tool,0.554152098
+冲浪板,冲浪板,Surf board,9,9,人造物,artificial object,工具,tool,0.651373289
+充电器,充电器,Charger,9,9,人造物,artificial object,电器,electric appliance,0.597071284
+抽水马桶,抽水马桶,Flush toilet,9,9,人造物,artificial object,家具,furniture,0.721515452
+抽屉,抽屉,Drawer,9,9,人造物,artificial object,家具,furniture,0.587943746
+臭豆腐,臭豆腐,Stinky tofu,9,9,食物,food,固态干粮,solid food,0.710625109
+臭鼬,臭鼬,skunk,9,9,动物,animal,陆生动物,terrestrial animal,0.749167157
+出租车,出租车,Taxi,9,9,交通工具,transportation,车,vehicle,0.689717966
+除草机,除草机,eradicator,9,9,人造物,artificial object,电器,electric appliance,0.661164959
+锄头,锄头,Hoe,9,9,人造物,artificial object,工具,tool,0.766874214
+雏菊,雏菊,Daisy,9,9,植物,plant,花草,flower,0.814958464
+橱柜,橱柜,Cupboard,9,9,人造物,artificial object,家具,furniture,0.670596394
+储蓄罐,储蓄罐,Savings bank,9,9,人造物,artificial object,工具,tool,0.637464397
+穿山甲,穿山甲,Pangolin,9,6.33,动物,animal,陆生动物,terrestrial animal,0.75018123
+传真机,传真机,Fax machine,9,9,人造物,artificial object,电器,electric appliance,0.550444444
+窗户,窗户,window,9,9,人造物,artificial object,工具,tool,0.693611511
+窗帘,窗帘,window curtains,9,9,人造物,artificial object,家具,furniture,0.690661399
+床,床,Bed,9,9,人造物,artificial object,家具,furniture,0.681885227
+床垫,床垫,Mattress,9,9,人造物,artificial object,家具,furniture,0.729435547
+床罩,床罩,Bedshade,9,9,人造物,artificial object,家具,furniture,0.640542377
+创可贴,创可贴,Band aid,9,9,人造物,artificial object,医疗用品,medical supplies,0.64523146
+垂柳,垂柳,Weeping willow,9,9,植物,plant,树木,tree,0.717755485
+锤子,锤子,hammer,9,9,人造物,artificial object,工具,tool,0.648989682
+春卷,春卷,Spring Rolls,9,9,食物,food,固态干粮,solid food,0.683681616
+纯净水,纯净水,purified water,9,9,食物,food,酒水饮料,drinks,0.726461887
+磁带,磁带,magnetic tape,9,9,人造物,artificial object,工具,tool,0.643231288
+磁铁,磁铁,magnet,9,9,人造物,artificial object,工具,tool,0.56982659
+刺刀,刺刀,Bayonet,9,9,人造物,artificial object,武器,weapon,0.776465492
+刺猬,刺猬,Hedgehog,9,9,动物,animal,陆生动物,terrestrial animal,0.667508678
+葱,葱,Scallion,9,9,植物,plant,蔬菜,vegetable,0.793179652
+醋,醋,Vinegar,9,9,食物,food,调料,seasoning,0.735882764
+催泪弹,催泪弹,Tear bomb,8.33,9,人造物,artificial object,武器,weapon,0.489849183
+搓衣板,搓衣板,Washing board,9,9,人造物,artificial object,工具,tool,0.680229765
+锉刀,锉刀,File,6.33,9,人造物,artificial object,工具,tool,0.672461502
+打底裤,打底裤,Leggings,9,9,人造物,artificial object,服饰,dress,0.68839707
+打气筒,打气筒,Tyre pump,9,9,人造物,artificial object,工具,tool,0.571656692
+打印机,打印机,Printer,9,9,人造物,artificial object,电器,electric appliance,0.730454177
+大饼,大饼,Big cakes,9,9,食物,food,固态干粮,solid food,0.790573271
+大豆,大豆,soybean,9,9,植物,plant,蔬菜,vegetable,0.697370295
+大灰狼,大灰狼,Timber wolf,6.33,9,动物,animal,陆生动物,terrestrial animal,0.818754889
+大理石,大理石,Marble,9,9,自然物,natural object,自然物,natural object,0.595139607
+大米,大米,rice,9,9,食物,food,固态干粮,solid food,0.709454674
+大脑,大脑,Brain,9,9,身体部位,body part,身体部位,body part,0.64878663
+大炮,大炮,artillery,9,9,人造物,artificial object,武器,weapon,0.61989884
+大蒜,大蒜,garlic,9,9,植物,plant,蔬菜,vegetable,0.780170492
+大提琴,大提琴,Cello,8.67,9,人造物,artificial object,乐器,musical instrument,0.686111367
+大头菜,大头菜,A turnip,8.33,9,植物,plant,蔬菜,vegetable,0.777481992
+大头针,大头针,Pin,9,9,人造物,artificial object,工具,tool,0.662953995
+大腿,大腿,thigh,9,9,身体部位,body part,身体部位,body part,0.699300556
+大象,大象,Elephant,9,9,动物,animal,陆生动物,terrestrial animal,0.75459305
+大猩猩,大猩猩,Gorilla,9,9,动物,animal,陆生动物,terrestrial animal,0.824899472
+大衣,大衣,Overcoat,9,9,人造物,artificial object,服饰,dress,0.733409835
+大枣,大枣,Jujube,9,9,植物,plant,水果,fruit,0.761329116
+带鱼,带鱼,Carp,9,9,动物,animal,水生动物,aquatic animal,0.724320415
+担架,担架,stretcher,9,9,人造物,artificial object,医疗用品,medical supplies,0.61448676
+单簧管,单簧管,Clarinet,8.33,9,人造物,artificial object,乐器,musical instrument,0.744150155
+单肩包,单肩包,The single shoulder bag,9,9,人造物,artificial object,服饰,dress,0.663407809
+单人床,单人床,Single bed,9,9,人造物,artificial object,家具,furniture,0.660511072
+弹簧,弹簧,Spring,9,9,人造物,artificial object,工具,tool,0.583963009
+弹簧床垫,弹簧床垫,Spring mattress,9,9,人造物,artificial object,家具,furniture,0.774654588
+弹簧刀,弹簧刀,Spring knife,9,9,人造物,artificial object,武器,weapon,0.78309908
+弹药,弹药,ammunition,9,9,人造物,artificial object,武器,weapon,0.590582828
+蛋糕,蛋糕,Cake,9,9,食物,food,固态干粮,solid food,0.684029494
+蛋黄,蛋黄,yolk,9,9,食物,food,固态干粮,solid food,0.647438463
+蛋卷,蛋卷,Chicken rolls,9,9,食物,food,固态干粮,solid food,0.659839357
+蛋卷冰淇淋,蛋卷冰淇淋,ice cream cone,9,9,食物,food,固态干粮,solid food,0.706323045
+刀,刀,knife,9,9,人造物,artificial object,武器,weapon,0.755650333
+刀豆,刀豆,Sword bean,8.67,9,植物,plant,蔬菜,vegetable,0.732795427
+导弹,导弹,Missile,8.33,9,人造物,artificial object,武器,weapon,0.644438815
+导盲犬,导盲犬,Guide dog,9,9,动物,animal,陆生动物,terrestrial animal,0.610451202
+稻草人,稻草人,scarecrow,9,9,人造物,artificial object,工具,tool,0.620762866
+灯,灯,lamp,9,8.67,人造物,artificial object,电器,electric appliance,0.750547911
+灯笼,灯笼,lantern,9,9,人造物,artificial object,工具,tool,0.654257908
+灯笼椒,灯笼椒,Red pepper,9,9,植物,plant,蔬菜,vegetable,0.79225597
+灯泡,灯泡,Light bulb:,9,9,人造物,artificial object,电器,electric appliance,0.722660275
+灯塔,灯塔,lighthouse,8.33,9,人造物,artificial object,建筑,building,0.583805787
+灯罩,灯罩,Lampshade,9,9,人造物,artificial object,工具,tool,0.694068627
+地球,地球,earth,9,8.33,自然物,natural object,自然物,natural object,0.738529806
+地毯,地毯,Carpet,9,9,人造物,artificial object,家具,furniture,0.67738277
+地铁,地铁,metro,9,9,交通工具,transportation,车,vehicle,0.735026712
+地图,地图,Map,9,8,人造物,artificial object,工具,tool,0.45295897
+帝王蟹,帝王蟹,King crab,9,9,动物,animal,水生动物,aquatic animal,0.727624138
+电报,电报,telegraph,8.67,8.67,人造物,artificial object,电器,electric appliance,0.548372382
+电冰箱,电冰箱,Refrigerator,9,9,人造物,artificial object,电器,electric appliance,0.667767479
+电池,电池,Battery,9,9,人造物,artificial object,电器,electric appliance,0.474691996
+电动汽车,电动汽车,electric vehicle,9,9,交通工具,transportation,车,vehicle,0.686977328
+电动牙刷,电动牙刷,Electric toothbrush,9,9,人造物,artificial object,电器,electric appliance,0.731134758
+电风扇,电风扇,electric fan,9,9,人造物,artificial object,电器,electric appliance,0.706003738
+电话簿,电话簿,Phone book,9,9,人造物,artificial object,工具,tool,0.557842577
+电话亭,电话亭,Telephone booth,9,9,人造物,artificial object,建筑,building,0.655923465
+电吉他,电吉他,Electric guitar,9,9,人造物,artificial object,乐器,musical instrument,0.721132272
+电锯,电锯,electric saw,9,9,人造物,artificial object,电器,electric appliance,0.712006362
+电路板,电路板,Circuit board,9,9,人造物,artificial object,电器,electric appliance,0.582015261
+电脑键盘,电脑键盘,Computer keyboard,9,9,人造物,artificial object,电器,electric appliance,0.581610901
+电脑屏幕,电脑屏幕,Computer screen,9,9,人造物,artificial object,电器,electric appliance,0.617282623
+电脑主机,电脑主机,Computer host,9,9,人造物,artificial object,电器,electric appliance,0.532009019
+电视,电视,television,9,8.67,人造物,artificial object,电器,electric appliance,0.65826418
+电视天线,电视天线,Television antenna,9,9,人造物,artificial object,电器,electric appliance,0.569875613
+电梯,电梯,Elevator,9,9,人造物,artificial object,电器,electric appliance,0.692694319
+电蚊拍,电蚊拍,Electric mosquito swatter,9,9,人造物,artificial object,电器,electric appliance,0.715716986
+电线杆,电线杆,Telegraph Pole,9,9,人造物,artificial object,电器,electric appliance,0.660740375
+电影,电影,film,9,8.33,人造物,artificial object,工具,tool,0.551194977
+电影胶片,电影胶片,film stock,8.67,9,人造物,artificial object,工具,tool,0.502765983
+电子天平,电子天平,Electronic balance,8.67,9,人造物,artificial object,工具,tool,0.649270895
+电子显微镜,电子显微镜,electron microscope,9,9,人造物,artificial object,工具,tool,0.715833937
+貂皮大衣,貂皮大衣,mink coat,9,9,人造物,artificial object,服饰,dress,0.720375216
+雕塑,雕塑,Sculpture,9,9,人造物,artificial object,工具,tool,0.567723204
+吊车,吊车,crane,8.67,9,交通工具,transportation,车,vehicle,0.629622121
+吊床,吊床,Hammock,8.67,9,人造物,artificial object,工具,tool,0.618696732
+吊桥,吊桥,Suspension Bridge,9,9,人造物,artificial object,建筑,building,0.522438367
+吊坠,吊坠,Drop,8.67,9,人造物,artificial object,服饰,dress,0.666891037
+钓竿,钓竿,Fishing rod,9,9,人造物,artificial object,工具,tool,0.682643375
+钓鱼线,钓鱼线,Fishing line,9,9,人造物,artificial object,工具,tool,0.648216398
+丁香,丁香,clove,8.67,9,植物,plant,花草,flower,0.74764977
+丁字裤,丁字裤,T-back,9,9,人造物,artificial object,服饰,dress,0.68853641
+订书机,订书机,stapler,9,9,人造物,artificial object,工具,tool,0.609419458
+钉子,钉子,nail,9,9,人造物,artificial object,工具,tool,0.607686206
+冬瓜,冬瓜,Watermelon,9,9,植物,plant,蔬菜,vegetable,0.784460158
+斗篷,斗篷,Cloak,9,9,人造物,artificial object,服饰,dress,0.706430191
+豆豉,豆豉,fermented soya bean,9,9,食物,food,调料,seasoning,0.77526297
+豆腐,豆腐,Bean curd,9,9,食物,food,固态干粮,solid food,0.672796678
+豆腐干,豆腐干,Dried bean curd,9,9,食物,food,固态干粮,solid food,0.592092476
+豆腐脑,豆腐脑,Jellied bean curd,9,9,食物,food,固态干粮,solid food,0.647497531
+豆浆,豆浆,Soybean Milk,9,9,食物,food,酒水饮料,drinks,0.785182039
+豆奶,豆奶,Soymilk,9,9,食物,food,酒水饮料,drinks,0.764203009
+豆芽,豆芽,Bean sprouts,9,9,植物,plant,蔬菜,vegetable,0.705501013
+豆子,豆子,bean,9,9,植物,plant,蔬菜,vegetable,0.782353204
+毒蛇,毒蛇,Viper,8.67,9,动物,animal,陆生动物,terrestrial animal,0.80189175
+独木舟,独木舟,canoe,9,9,交通工具,transportation,船,boat,0.665289731
+短笛,短笛,Piccolo,9,9,人造物,artificial object,乐器,musical instrument,0.64567423
+短裤,短裤,shorts,9,9,人造物,artificial object,服饰,dress,0.728595452
+短裙,短裙,Short skirt,9,9,人造物,artificial object,服饰,dress,0.671540985
+短袖,短袖,Short sleeve,9,9,人造物,artificial object,服饰,dress,0.677045864
+炖锅,炖锅,Stew pot,9,9,人造物,artificial object,餐具,tableware,0.706791736
+炖肉,炖肉,Stew,9,9,食物,food,肉食,meat,0.673457015
+盾牌,盾牌,shield,9,9,人造物,artificial object,武器,weapon,0.603766194
+多宝鱼,多宝鱼,Turbot,9,9,动物,animal,水生动物,aquatic animal,0.751280545
+多米诺骨牌,多米诺骨牌,Domino.,9,9,人造物,artificial object,玩具,toy,0.558530835
+鹅,鹅,goose,9,9,动物,animal,鸟,bird,0.81690436
+蛾子,蛾子,moth,9,9,动物,animal,昆虫,insect,0.768243243
+鳄梨/牛油果,鳄梨/牛油果,Avocado / avocado,9,9,植物,plant,水果,fruit,0.732800983
+耳垂,耳垂,Earlobe,9,9,身体部位,body part,身体部位,body part,0.572977415
+耳朵,耳朵,Ears,9,9,身体部位,body part,身体部位,body part,0.723727486
+耳环,耳环,Earrings,9,9,人造物,artificial object,服饰,dress,0.597387906
+耳机,耳机,headset,9,9,人造物,artificial object,电器,electric appliance,0.580613238
+耳塞,耳塞,Earplugs,9,9,人造物,artificial object,工具,tool,0.598749094
+耳罩,耳罩,Earmuff,8.67,9,人造物,artificial object,工具,tool,0.691434673
+二锅头,二锅头,Erguotou,9,9,食物,food,酒水饮料,drinks,0.668503194
+发夹,发夹,Hairpin,9,9,人造物,artificial object,服饰,dress,0.681659832
+法式面包,法式面包,French bread,8.67,9,食物,food,固态干粮,solid food,0.671893935
+帆船,帆船,Sailboat,8.67,9,交通工具,transportation,船,boat,0.600791725
+番茄,番茄,tomato,9,9,植物,plant,蔬菜,vegetable,0.846197677
+番茄酱,番茄酱,ketchup,9,9,食物,food,调料,seasoning,0.752493925
+方便面,方便面,Instant noodles,9,9,食物,food,固态干粮,solid food,0.701007463
+方向盘,方向盘,Steering wheel,9,9,人造物,artificial object,工具,tool,0.648450519
+防潮垫,防潮垫,Moisture-proof pad,8.33,9,人造物,artificial object,工具,tool,0.659278793
+防尘罩,防尘罩,dust cover,8.67,9,人造物,artificial object,工具,tool,0.499983485
+防弹衣,防弹衣,Bulletproof vests,8.67,9,人造物,artificial object,服饰,dress,0.675708147
+防滑路面,防滑路面,Antiskid pavement,6.33,9,人造物,artificial object,工具,tool,0.55122531
+防火门,防火门,fire-proof door,6,9,人造物,artificial object,工具,tool,0.594590148
+防晒霜,防晒霜,sunscreen cream,9,9,人造物,artificial object,工具,tool,0.688352992
+防撞护栏,防撞护栏,anti-collision guardrails,8.67,9,人造物,artificial object,工具,tool,0.674283367
+房车,房车,Touring car,9,9,交通工具,transportation,车,vehicle,0.765612048
+纺织机,纺织机,Textile machinery,8.33,9,人造物,artificial object,电器,electric appliance,0.594521277
+放大镜,放大镜,Magnifier,9,9,人造物,artificial object,工具,tool,0.69913377
+飞镖,飞镖,Darts,9,9,人造物,artificial object,武器,weapon,0.69850106
+飞船,飞船,airship,8.33,9,交通工具,transportation,飞机,aircraft,0.533077936
+飞碟,飞碟,Flying saucer,8.33,9,交通工具,transportation,飞机,aircraft,0.580573576
+飞机,飞机,aircraft,9,9,交通工具,transportation,飞机,aircraft,0.765625991
+飞盘,飞盘,Frisbee,8.33,9,人造物,artificial object,玩具,toy,0.606358937
+飞毯,飞毯,Flying carpet,9,9,人造物,artificial object,玩具,toy,0.619028719
+飞艇,飞艇,Airship,8.33,9,交通工具,transportation,飞机,aircraft,0.564853019
+非洲象,非洲象,African elephant,8.67,9,动物,animal,陆生动物,terrestrial animal,0.818825476
+肥皂,肥皂,soap,9,9,人造物,artificial object,工具,tool,0.617814796
+肥皂盒,肥皂盒,Soap box,9,9,人造物,artificial object,工具,tool,0.665416311
+狒狒,狒狒,Baboon,8.67,9,动物,animal,陆生动物,terrestrial animal,0.768531789
+废物箱,废物箱,Trash,9,9,人造物,artificial object,工具,tool,0.600809224
+粪便,粪便,faeces,9,9,自然物,natural object,自然物,natural object,0.644844505
+风车,风车,windmill,9,9,人造物,artificial object,玩具,toy,0.675709654
+风力发电机,风力发电机,Wind power generator,8.67,9,人造物,artificial object,电器,electric appliance,0.610806516
+风铃,风铃,Wind chime,9,9,人造物,artificial object,玩具,toy,0.635981616
+风扇,风扇,Fan,9,9,人造物,artificial object,电器,electric appliance,0.692272113
+风信子,风信子,Hyacinth,8.33,9,植物,plant,花草,flower,0.764071465
+风衣,风衣,Windbreaker,9,9,人造物,artificial object,服饰,dress,0.797279299
+风筝,风筝,kite,9,9,人造物,artificial object,玩具,toy,0.679375698
+枫树,枫树,maple,8.67,9,植物,plant,树木,tree,0.787350604
+蜂蜜,蜂蜜,Honey,9,9,食物,food,酒水饮料,drinks,0.679878836
+蜂箱,蜂箱,hive,9,9,人造物,artificial object,工具,tool,0.641241475
+缝纫机,缝纫机,Sewing machine,9,9,人造物,artificial object,电器,electric appliance,0.719128329
+缝衣针,缝衣针,Sewing needle,9,9,人造物,artificial object,工具,tool,0.752943904
+扶手椅,扶手椅,Armchair,8.67,9,人造物,artificial object,家具,furniture,0.697686154
+浮萍,浮萍,Duckweed,8.67,9,植物,plant,花草,flower,0.666065816
+浮桥,浮桥,Pontoon Bridge,6,9,人造物,artificial object,建筑,building,0.559335401
+斧头,斧头,Axe,9,9,人造物,artificial object,工具,tool,0.686572016
+复印机,复印机,Copier,9,9,人造物,artificial object,电器,electric appliance,0.741234081
+蝮蛇,蝮蛇,Viper,8.33,9,动物,animal,陆生动物,terrestrial animal,0.704572456
+甘蓝,甘蓝,Cabbage,8.67,9,植物,plant,蔬菜,vegetable,0.801165159
+甘蔗,甘蔗,Sugar cane,9,9,植物,plant,水果,fruit,0.693467351
+柑橘,柑橘,citrus,9,9,植物,plant,水果,fruit,0.846540893
+橄榄,橄榄,olive,8.33,9,植物,plant,水果,fruit,0.733513212
+橄榄球,橄榄球,Rugby,8.67,9,人造物,artificial object,运动器材,sports equipment,0.605877986
+橄榄树,橄榄树,Olive,8.33,9,植物,plant,树木,tree,0.791286358
+擀面杖,擀面杖,Rolling pin,9,9,人造物,artificial object,工具,tool,0.754032258
+干电池,干电池,Dry battery,8.33,9,人造物,artificial object,电器,electric appliance,0.599834852
+干果,干果,Dry Fruits,9,9,食物,food,固态干粮,solid food,0.7190229
+钢笔,钢笔,Pen,9,9,人造物,artificial object,工具,tool,0.780526895
+钢筋,钢筋,a steel bar,9,9,人造物,artificial object,工具,tool,0.666151868
+钢琴,钢琴,piano,9,9,人造物,artificial object,乐器,musical instrument,0.733877323
+杠杆,杠杆,lever,9,9,人造物,artificial object,工具,tool,0.566012493
+高尔夫球,高尔夫球,Golf,9,9,人造物,artificial object,运动器材,sports equipment,0.623730721
+高尔夫球场,高尔夫球场,Golf Course,9,8.67,人造物,artificial object,建筑,building,0.679553996
+高尔夫球杆,高尔夫球杆,golf club,9,9,人造物,artificial object,运动器材,sports equipment,0.659561887
+高粱,高粱,sorghum,9,9,植物,plant,蔬菜,vegetable,0.745396903
+高领毛衣,高领毛衣,Turtleneck,9,9,人造物,artificial object,服饰,dress,0.758006349
+高速公路,高速公路,expressway,9,9,人造物,artificial object,建筑,building,0.557267983
+糕点,糕点,Cakes and Pastries,9,9,食物,food,固态干粮,solid food,0.657945057
+鸽子,鸽子,dove,9,9,动物,animal,鸟,bird,0.817435698
+割草机,割草机,Lawn mower,8.33,9,人造物,artificial object,电器,electric appliance,0.685790129
+羹汤,羹汤,Soup,9,9,食物,food,酒水饮料,drinks,0.705840697
+公告牌,公告牌,Bulletin board,9,9,人造物,artificial object,工具,tool,0.451628958
+公鸡,公鸡,Cock,8.67,9,动物,animal,鸟,bird,0.817090679
+公交车,公交车,Bus,9,9,交通工具,transportation,车,vehicle,0.757791894
+公墓,公墓,Cemetery,9,9,人造物,artificial object,建筑,building,0.570953354
+公文包,公文包,Briefcase,9,9,人造物,artificial object,工具,tool,0.649642091
+拱门,拱门,arch,9,9,人造物,artificial object,建筑,building,0.607639208
+沟渠,沟渠,Ditches,9,9,自然物,natural object,自然物,natural object,0.365592085
+篝火,篝火,bonfire,9,9,自然物,natural object,自然物,natural object,0.542161466
+狗,狗,Dog,9,9,动物,animal,陆生动物,terrestrial animal,0.795434346
+狗粮,狗粮,Dog food,8.67,9,食物,food,固态干粮,solid food,0.600141868
+狗肉,狗肉,Dog meat,8.67,9,食物,food,肉食,meat,0.680571984
+狗尾草,狗尾草,Green bristlegrass,9,9,植物,plant,花草,flower,0.663564602
+狗项圈,狗项圈,Dog collar,9,9,人造物,artificial object,工具,tool,0.614113865
+枸杞,枸杞,Chinese wolfberry,9,9,植物,plant,水果,fruit,0.736796212
+购物车,购物车,Shopping Cart,9,8.33,人造物,artificial object,工具,tool,0.615895296
+古董,古董,antique,8.33,9,人造物,artificial object,工具,tool,0.631010093
+谷物,谷物,grain,8.67,9,食物,food,固态干粮,solid food,0.730485333
+谷子,谷子,millet,8.67,9,食物,food,固态干粮,solid food,0.74195615
+骨灰,骨灰,ashes of the dead,9,9,身体部位,body part,身体部位,body part,0.58032196
+骨灰盒,骨灰盒,The cinerary casket,9,9,人造物,artificial object,工具,tool,0.556120654
+骨架,骨架,skeleton,9,9,身体部位,body part,身体部位,body part,0.561764043
+骨头,骨头,bone,9,9,身体部位,body part,身体部位,body part,0.69374364
+鼓,鼓,drum,9,9,人造物,artificial object,乐器,musical instrument,0.62011986
+鼓槌,鼓槌,Drumstick,8.67,9,人造物,artificial object,工具,tool,0.624188733
+瓜,瓜,melon,9,9,植物,plant,蔬菜,vegetable,0.847174653
+瓜子,瓜子,melon seed,9,9,植物,plant,水果,fruit,0.696810791
+拐杖,拐杖,A cane,9,9,人造物,artificial object,工具,tool,0.648579221
+关节,关节,joint,9,9,身体部位,body part,身体部位,body part,0.656089307
+棺材,棺材,Coffin,9,9,人造物,artificial object,工具,tool,0.558153678
+管道,管道,The Conduit,9,9,人造物,artificial object,工具,tool,0.478562306
+灌木,灌木,shrub,8.33,9,植物,plant,树木,tree,0.843309468
+罐头,罐头,can,9,9,食物,food,固态干粮,solid food,0.656318246
+罐子,罐子,jar,9,9,人造物,artificial object,工具,tool,0.582204683
+光盘,光盘,Disc,9,9,人造物,artificial object,电器,electric appliance,0.620531159
+棍棒,棍棒,Club,9,9,人造物,artificial object,武器,weapon,0.644799167
+锅,锅,pot,9,9,人造物,artificial object,餐具,tableware,0.660269453
+蝈蝈,蝈蝈,long-horned grasshopper,9,9,动物,animal,昆虫,insect,0.784621436
+国际象棋,国际象棋,Chess,8.67,9,人造物,artificial object,玩具,toy,0.475603053
+国旗,国旗,National flag,9,9,人造物,artificial object,工具,tool,0.737366179
+果冻,果冻,jelly,9,9,食物,food,固态干粮,solid food,0.727104279
+果酱,果酱,Jam,9,9,食物,food,调料,seasoning,0.689331563
+果蝇,果蝇,Drosophila melanogaster,8.67,9,动物,animal,昆虫,insect,0.71589173
+果汁,果汁,fruit juice,9,9,食物,food,酒水饮料,drinks,0.708260502
+过山车,过山车,Roller Coaster,9,9,人造物,artificial object,玩具,toy,0.680580536
+哈巴狗,哈巴狗,A pug,8.33,9,动物,animal,陆生动物,terrestrial animal,0.740133786
+哈密瓜,哈密瓜,Hami melon,9,9,植物,plant,水果,fruit,0.800628708
+哈士奇,哈士奇,Siberian Husky,8.33,9,动物,animal,陆生动物,terrestrial animal,0.775221291
+海白菜,海白菜,Sea cabbage,6,9,植物,plant,蔬菜,vegetable,0.751540971
+海报,海报,poster,9,8.33,人造物,artificial object,工具,tool,0.635536616
+海豹,海豹,Seals,9,9,动物,animal,水生动物,aquatic animal,0.768526639
+海参,海参,sea cucumber,9,9,动物,animal,水生动物,aquatic animal,0.725748287
+海草,海草,seaweed,9,9,植物,plant,蔬菜,vegetable,0.742190394
+海带,海带,Kelp,9,9,植物,plant,蔬菜,vegetable,0.679684593
+海胆,海胆,Sea urchin,8.67,9,动物,animal,水生动物,aquatic animal,0.725503559
+海龟,海龟,sea turtle,8.67,9,动物,animal,水生动物,aquatic animal,0.785760504
+海螺,海螺,Conch,8.67,9,动物,animal,水生动物,aquatic animal,0.772433608
+海绵,海绵,Sponge,9,9,人造物,artificial object,工具,tool,0.646765481
+海牛,海牛,Manatee,8.67,9,动物,animal,水生动物,aquatic animal,0.778916668
+海鸥,海鸥,Seagull,8.67,9,动物,animal,鸟,bird,0.871920699
+海蛇,海蛇,Sea snake,8.33,9,动物,animal,水生动物,aquatic animal,0.820278549
+海狮,海狮,Otarriinae,8.33,9,动物,animal,水生动物,aquatic animal,0.787075781
+海獭,海獭,sea otter,8.33,9,动物,animal,水生动物,aquatic animal,0.785177665
+海苔,海苔,Seaweed,9,9,植物,plant,蔬菜,vegetable,0.727783842
+海棠,海棠,Begonia,8.67,9,植物,plant,花草,flower,0.793725751
+海豚,海豚,dolphin,9,9,动物,animal,水生动物,aquatic animal,0.686241673
+海象,海象,walrus,7.33,9,动物,animal,水生动物,aquatic animal,0.789448633
+海星,海星,Starfish,9,9,动物,animal,水生动物,aquatic animal,0.73418945
+海洋,海洋,ocean,9,8.67,自然物,natural object,自然物,natural object,0.543217585
+海藻,海藻,seaweed,9,9,植物,plant,蔬菜,vegetable,0.675985433
+海蜇,海蜇,Jellyfish,9,9,动物,animal,水生动物,aquatic animal,0.74563516
+含羞草,含羞草,Mimosa,9,9,植物,plant,花草,flower,0.734979683
+汉堡,汉堡,Hamburger,9,9,食物,food,固态干粮,solid food,0.744081912
+行车记录仪,行车记录仪,tachograph,8.67,9,人造物,artificial object,工具,tool,0.644342285
+行李车,行李车,luggage cart,8.67,9,交通工具,transportation,车,vehicle,0.612041904
+航母,航母,aircraft carrier,8.67,9,交通工具,transportation,飞机,aircraft,0.552587946
+航天飞机,航天飞机,space shuttle,9,9,交通工具,transportation,飞机,aircraft,0.643236231
+豪华轿车,豪华轿车,Luxury car,9,9,交通工具,transportation,车,vehicle,0.735176026
+豪华客轮,豪华客轮,Luxury liner,9,9,交通工具,transportation,船,boat,0.697490733
+和服,和服,Kimono,9,9,人造物,artificial object,服饰,dress,0.665442757
+河马,河马,Hippocampus,9,9,动物,animal,陆生动物,terrestrial animal,0.805198137
+河豚,河豚,Dolphins,9,9,动物,animal,水生动物,aquatic animal,0.763050142
+荷包蛋,荷包蛋,Poached Egg,9,9,食物,food,固态干粮,solid food,0.718619315
+荷花,荷花,Lotus,9,9,植物,plant,花草,flower,0.811700439
+荷兰豆,荷兰豆,snow pea,8.67,9,植物,plant,蔬菜,vegetable,0.810108819
+核弹,核弹,Nuclear Bomb,8.33,9,人造物,artificial object,武器,weapon,0.595210765
+核桃,核桃,Walnut,9,9,植物,plant,水果,fruit,0.738162767
+核桃树,核桃树,walnut tree,8.33,9,植物,plant,树木,tree,0.844198358
+核武器,核武器,Nuclear weapon,8.33,9,人造物,artificial object,武器,weapon,0.522355582
+盒子,盒子,Box,9,9,人造物,artificial object,工具,tool,0.576801793
+贺卡,贺卡,Greeting cards,9,8.67,人造物,artificial object,工具,tool,0.605336891
+黑板,黑板,blackboard,9,8.67,人造物,artificial object,工具,tool,0.717330564
+黑板擦,黑板擦,Blackboard eraser,9,9,人造物,artificial object,工具,tool,0.765786529
+黑豹,黑豹,panther,8.67,9,动物,animal,陆生动物,terrestrial animal,0.843430852
+黑胡椒,黑胡椒,black pepper,9,9,食物,food,调料,seasoning,0.694401624
+黑莓,黑莓,blackberry,6.33,9,植物,plant,水果,fruit,0.76067182
+黑天鹅,黑天鹅,black swan,6.33,6.33,动物,animal,鸟,bird,0.771125687
+红包,红包,Red envelopes,9,8.33,人造物,artificial object,工具,tool,0.551206399
+红茶,红茶,black tea,9,9,食物,food,酒水饮料,drinks,0.70647203
+红酒,红酒,red wine,9,9,食物,food,酒水饮料,drinks,0.685311735
+红酒杯,红酒杯,Wine cup,9,9,人造物,artificial object,餐具,tableware,0.681590272
+红烧肉,红烧肉,braised pork in brown sauce,9,9,食物,food,肉食,meat,0.724978745
+红薯,红薯,sweet potato,9,9,植物,plant,蔬菜,vegetable,0.676221944
+红糖,红糖,Brown sugar,9,9,食物,food,调料,seasoning,0.684447482
+喉,喉,throat,9,9,身体部位,body part,身体部位,body part,0.635289653
+猴,猴,Monkey,9,9,动物,animal,陆生动物,terrestrial animal,0.811003124
+猴面包树,猴面包树,baobab tree,5.33,9,植物,plant,树木,tree,0.720606717
+猴子,猴子,monkey,9,9,动物,animal,陆生动物,terrestrial animal,0.727769285
+后视镜,后视镜,Rearview mirror,9,9,人造物,artificial object,工具,tool,0.538335485
+呼啦圈,呼啦圈,Hu la hoop,9,9,人造物,artificial object,运动器材,sports equipment,0.649506793
+呼吸机,呼吸机,respirator,9,9,人造物,artificial object,医疗用品,medical supplies,0.655951747
+狐狸,狐狸,fox,9,9,动物,animal,陆生动物,terrestrial animal,0.759987248
+胡瓜,胡瓜,Cucurbit,6.33,9,植物,plant,蔬菜,vegetable,0.790896244
+胡椒,胡椒,pepper,8.67,9,食物,food,调料,seasoning,0.584232345
+胡椒牛排,胡椒牛排,Pepper steak,9,9,食物,food,肉食,meat,0.636582497
+胡椒树,胡椒树,Pepper tree,8.33,9,植物,plant,树木,tree,0.723805712
+胡萝卜,胡萝卜,Carrot,9,9,植物,plant,蔬菜,vegetable,0.736640665
+胡须,胡须,beard,9,9,身体部位,body part,身体部位,body part,0.738421912
+蝴蝶兰,蝴蝶兰,moth orchid,8.67,9,植物,plant,花草,flower,0.773951435
+护目镜,护目镜,Goggles,9,9,人造物,artificial object,工具,tool,0.700389436
+护手霜,护手霜,Hand Cream,9,9,人造物,artificial object,工具,tool,0.687009943
+护腕,护腕,Wrist Guard,9,9,人造物,artificial object,服饰,dress,0.739298406
+护照,护照,passport,9,9,人造物,artificial object,工具,tool,0.618527432
+花,花,flower,9,9,植物,plant,花草,flower,0.78369316
+花菜,花菜,Cauliflower,9,9,植物,plant,蔬菜,vegetable,0.778225037
+花露水,花露水,Toilet water,9,9,人造物,artificial object,工具,tool,0.638168172
+花盆,花盆,Flowerpot,9,9,人造物,artificial object,服饰,dress,0.672590995
+花生,花生,peanut,9,9,食物,food,固态干粮,solid food,0.661048722
+花生酱,花生酱,Peanut butter,9,9,食物,food,调料,seasoning,0.613085166
+花生米,花生米,peanut meat,9,9,食物,food,固态干粮,solid food,0.689600574
+花生油,花生油,Peanut oil,8.67,9,食物,food,调料,seasoning,0.729374536
+滑板,滑板,Skate,9,9,人造物,artificial object,玩具,toy,0.617531545
+滑轮,滑轮,pulley,9,9,人造物,artificial object,玩具,toy,0.521210932
+滑翔机,滑翔机,Glider,8.33,9,交通工具,transportation,飞机,aircraft,0.642775135
+滑雪道,滑雪道,Ski Slope,9,9,人造物,artificial object,玩具,toy,0.655264817
+化妆品,化妆品,Cosmetics,9,9,人造物,artificial object,工具,tool,0.62020984
+画笔,画笔,paint brush,9,9,人造物,artificial object,工具,tool,0.681336901
+画架,画架,Easel,9,9,人造物,artificial object,工具,tool,0.601921757
+画眉鸟,画眉鸟,Thrush,8.33,9,动物,animal,鸟,bird,0.746340585
+画纸,画纸,Drawing paper,9,8.67,人造物,artificial object,工具,tool,0.677867222
+桦木,桦木,birch,8.33,9,植物,plant,树木,tree,0.748551205
+怀表,怀表,Pocket Watch,9,9,人造物,artificial object,工具,tool,0.701691729
+槐树,槐树,Pagoda tree,9,9,植物,plant,树木,tree,0.75279814
+换气扇,换气扇,Ventilator,8.67,9,人造物,artificial object,电器,electric appliance,0.676720358
+浣熊,浣熊,Raccoons,8.67,9,动物,animal,陆生动物,terrestrial animal,0.786543991
+皇冠,皇冠,an crown,9,9,人造物,artificial object,工具,tool,0.603246032
+黄灯,黄灯,Yellow light,5,8.67,人造物,artificial object,电器,electric appliance,0.584986601
+黄瓜,黄瓜,cucumber,9,9,植物,plant,蔬菜,vegetable,0.833557528
+黄花鱼,黄花鱼,Yellow croaker,8.33,9,动物,animal,水生动物,aquatic animal,0.739757237
+黄金树,黄金树,Golden Tree,5.33,7,植物,plant,树木,tree,0.712586324
+黄牛,黄牛,cattle,8.67,9,动物,animal,陆生动物,terrestrial animal,0.709964123
+黄鼠狼,黄鼠狼,yellow weasel,8.33,9,动物,animal,陆生动物,terrestrial animal,0.757572331
+黄水仙,黄水仙,Daffodils,8.33,9,植物,plant,花草,flower,0.709738765
+黄土,黄土,Loess,8.67,9,自然物,natural object,自然物,natural object,0.519599903
+黄油,黄油,butter,8.67,9,食物,food,调料,seasoning,0.702787884
+婚纱,婚纱,Wedding dress,9,9,人造物,artificial object,服饰,dress,0.622834067
+馄饨,馄饨,Wonton,9,9,食物,food,固态干粮,solid food,0.74814185
+火车,火车,train,9,9,交通工具,transportation,车,vehicle,0.691436622
+火锅,火锅,Hot Pot,9,9,食物,food,固态干粮,solid food,0.539045956
+火鸡,火鸡,turkey,8.67,9,动物,animal,鸟,bird,0.72050827
+火箭,火箭,rocket,8.67,9,交通工具,transportation,飞机,aircraft,0.609530683
+火烈鸟,火烈鸟,Flamingo,8.67,9,动物,animal,鸟,bird,0.712322728
+火山,火山,volcano,8.67,9,自然物,natural object,自然物,natural object,0.603698121
+火腿,火腿,Ham,9,9,食物,food,肉食,meat,0.72405312
+火腿肠,火腿肠,Ham sausage,9,9,食物,food,肉食,meat,0.707446299
+火焰,火焰,flame,9,8.67,自然物,natural object,自然物,natural object,0.668603634
+火药,火药,gunpowder,8.67,9,人造物,artificial object,武器,weapon,0.651900139
+火灾报警器,火灾报警器,Fire alarm,9,9,人造物,artificial object,电器,electric appliance,0.619984839
+机票,机票,Plane ticket,9,8.33,人造物,artificial object,工具,tool,0.590040883
+机器人,机器人,Robot,9,9,人造物,artificial object,电器,electric appliance,0.557157724
+机枪,机枪,machine gun,8.33,9,人造物,artificial object,武器,weapon,0.653065847
+鸡蛋,鸡蛋,egg,9,9,食物,food,固态干粮,solid food,0.803751418
+鸡冠花,鸡冠花,Celosia,5,9,植物,plant,花草,flower,0.789814124
+鸡肉,鸡肉,chicken,9,9,食物,food,肉食,meat,0.61999212
+鸡尾酒,鸡尾酒,Cocktail,9,9,食物,food,酒水饮料,drinks,0.695717752
+积木,积木,Building blocks,9,9,人造物,artificial object,玩具,toy,0.649673935
+基因,基因,gene,9,6.67,自然物,natural object,自然物,natural object,0.375017751
+吉普车,吉普车,Jeep,8.67,9,交通工具,transportation,车,vehicle,0.696049945
+吉他,吉他,Guitar,9,9,人造物,artificial object,乐器,musical instrument,0.660746796
+计算器,计算器,Calculator,9,8.67,人造物,artificial object,工具,tool,0.623860097
+记号笔,记号笔,marking pen,9,9,人造物,artificial object,工具,tool,0.695123031
+记事本,记事本,Notepad,9,9,人造物,artificial object,工具,tool,0.553924831
+寄居蟹,寄居蟹,Hermit crab,8.33,9,动物,animal,水生动物,aquatic animal,0.71824498
+鲫鱼,鲫鱼,Crucian carp,8.67,9,动物,animal,水生动物,aquatic animal,0.743457591
+家鼠,家鼠,Rat,9,9,动物,animal,陆生动物,terrestrial animal,0.735504587
+夹克,夹克,Jacket,9,9,人造物,artificial object,服饰,dress,0.798348544
+夹竹桃,夹竹桃,Nerium oleander,9,9,植物,plant,花草,flower,0.694033471
+甲鱼,甲鱼,Turtle,9,9,动物,animal,水生动物,aquatic animal,0.761941596
+假发,假发,Wig,9,9,人造物,artificial object,服饰,dress,0.585861063
+假山,假山,Rockery,9,9,人造物,artificial object,建筑,building,0.643269677
+坚果,坚果,Nut,9,9,食物,food,固态干粮,solid food,0.761750405
+肩膀,肩膀,shoulder,9,9,身体部位,body part,身体部位,body part,0.642647059
+煎饼,煎饼,grilled savory crepe,9,9,食物,food,固态干粮,solid food,0.618445869
+煎蛋卷,煎蛋卷,Omelets,9,9,食物,food,固态干粮,solid food,0.656633222
+煎鸡蛋,煎鸡蛋,Fried egg,9,9,食物,food,固态干粮,solid food,0.667040368
+减速带,减速带,Deceleration zone,9,9,人造物,artificial object,建筑,building,0.554770576
+减震器,减震器,Shock absorber,5.67,9,人造物,artificial object,工具,tool,0.635612671
+剪刀,剪刀,scissors,9,9,人造物,artificial object,工具,tool,0.650771878
+剑,剑,The sword,9,9,人造物,artificial object,武器,weapon,0.62262245
+键盘,键盘,keyboard,9,9,人造物,artificial object,电器,electric appliance,0.622616079
+豇豆,豇豆,cowpea,9,9,植物,plant,蔬菜,vegetable,0.761671014
+浆果,浆果,Berry,9,9,植物,plant,水果,fruit,0.79996042
+奖章,奖章,Medal,9,8.67,人造物,artificial object,工具,tool,0.529242989
+降落伞,降落伞,parachute,9,9,人造物,artificial object,工具,tool,0.658873756
+酱油,酱油,soy sauce,9,9,食物,food,调料,seasoning,0.647376324
+交通灯,交通灯,Traffic lights,9,9,人造物,artificial object,电器,electric appliance,0.643515794
+胶带,胶带,adhesive tape,9,9,人造物,artificial object,医疗用品,medical supplies,0.585081041
+胶卷,胶卷,film,9,9,人造物,artificial object,工具,tool,0.559955996
+胶囊,胶囊,capsule,9,9,人造物,artificial object,医疗用品,medical supplies,0.554307826
+胶水,胶水,glue,9,9,人造物,artificial object,工具,tool,0.63189371
+椒盐,椒盐,Salt and pepper,8.33,9,食物,food,调料,seasoning,0.702046698
+饺子,饺子,Dumplings,9,9,食物,food,固态干粮,solid food,0.734611117
+绞肉机,绞肉机,meat grinder,9,9,人造物,artificial object,电器,electric appliance,0.606874373
+脚,脚,foot,9,9,身体部位,body part,身体部位,body part,0.696154442
+脚背,脚背,Instep,9,9,身体部位,body part,身体部位,body part,0.70172855
+脚后跟,脚后跟,Heel,9,9,身体部位,body part,身体部位,body part,0.682149099
+脚链,脚链,Anklet,9,9,人造物,artificial object,服饰,dress,0.639730979
+脚趾,脚趾,Toe,9,9,身体部位,body part,身体部位,body part,0.672711706
+搅拌机,搅拌机,Blender,9,9,人造物,artificial object,电器,electric appliance,0.616350068
+轿车,轿车,Car,9,9,交通工具,transportation,车,vehicle,0.780881751
+轿子,轿子,sedan,9,9,人造物,artificial object,工具,tool,0.628322785
+睫毛,睫毛,eyelash,9,9,身体部位,body part,身体部位,body part,0.656602649
+戒尺,戒尺,Ferule,9,9,人造物,artificial object,工具,tool,0.552699895
+戒指,戒指,Ring,9,9,人造物,artificial object,服饰,dress,0.580695738
+金龟子,金龟子,Scarab,8.33,9,动物,animal,昆虫,insect,0.792328422
+金橘,金橘,Citrofortunella microcarpa Wijnands,9,9,植物,plant,水果,fruit,0.803902941
+金毛犬,金毛犬,Golden Retriever,8.67,9,动物,animal,陆生动物,terrestrial animal,0.681208332
+金钱豹,金钱豹,leopard,7.67,9,动物,animal,陆生动物,terrestrial animal,0.818319112
+金钱草,金钱草,Lysimachia christinae,8,9,植物,plant,花草,flower,0.76720967
+金枪鱼,金枪鱼,tunas,8.67,9,动物,animal,水生动物,aquatic animal,0.714785717
+金丝雀,金丝雀,Canary,8.67,9,动物,animal,鸟,bird,0.793838693
+金条,金条,bullion,9,9,人造物,artificial object,工具,tool,0.676161746
+金银花,金银花,Honeysuckle,8.33,9,植物,plant,花草,flower,0.740696136
+金鱼,金鱼,Goldfish,9,9,动物,animal,水生动物,aquatic animal,0.782917883
+金针菇,金针菇,Flammulina velutipes,9,9,植物,plant,蔬菜,vegetable,0.742545257
+金字塔,金字塔,Pyramid,9,9,人造物,artificial object,建筑,building,0.601691791
+紧身衣,紧身衣,Tights,9,9,人造物,artificial object,服饰,dress,0.592671619
+鲸鱼,鲸鱼,whale,9,9,动物,animal,水生动物,aquatic animal,0.824409269
+警犬,警犬,Police dog,8.67,9,动物,animal,陆生动物,terrestrial animal,0.646017758
+净化器,净化器,purifier,9,9,人造物,artificial object,电器,electric appliance,0.64237629
+净水器,净水器,Water purifier,9,9,人造物,artificial object,电器,electric appliance,0.6656294
+镜框,镜框,Frame,9,9,人造物,artificial object,工具,tool,0.531278608
+镜子,镜子,mirror,9,9,人造物,artificial object,工具,tool,0.571065729
+韭菜,韭菜,Leek,9,9,植物,plant,蔬菜,vegetable,0.78186935
+酒杯,酒杯,Wine Glass,9,9,人造物,artificial object,餐具,tableware,0.707308282
+酒壶,酒壶,flagon,9,9,人造物,artificial object,餐具,tableware,0.570907451
+救护车,救护车,Ambulance,9,9,交通工具,transportation,车,vehicle,0.654188821
+救生圈,救生圈,Life buoy,9,9,人造物,artificial object,工具,tool,0.700073961
+桔皮,桔皮,Orange peel,9,9,植物,plant,水果,fruit,0.663896466
+桔子,桔子,Orange,9,9,植物,plant,水果,fruit,0.789267397
+菊花,菊花,Chrysanthemum,9,9,植物,plant,花草,flower,0.827328047
+橘子汽水,橘子汽水,orange soda,9,9,食物,food,酒水饮料,drinks,0.773925118
+卷笔刀,卷笔刀,Pencil sharpener,9,9,人造物,artificial object,工具,tool,0.684549356
+卷饼,卷饼,Rolls,9,9,食物,food,固态干粮,solid food,0.666203934
+卷帘,卷帘,Curls,9,9,人造物,artificial object,家具,furniture,0.510538226
+卷筒纸,卷筒纸,Web,9,9,人造物,artificial object,工具,tool,0.680955993
+卷心菜,卷心菜,Cabbage,9,9,植物,plant,蔬菜,vegetable,0.822200198
+决明子,决明子,Cassia seed,7.67,9,植物,plant,花草,flower,0.756720519
+蕨菜,蕨菜,fern,8.33,9,植物,plant,蔬菜,vegetable,0.773519551
+军装,军装,Army uniform,9,9,人造物,artificial object,服饰,dress,0.68593099
+咖啡,咖啡,Coffee,9,9,食物,food,酒水饮料,drinks,0.755852457
+咖啡豆,咖啡豆,Coffee bean,9,9,食物,food,固态干粮,solid food,0.733167662
+咖啡机,咖啡机,Coffee machine,9,9,人造物,artificial object,电器,electric appliance,0.509731713
+咖喱酱,咖喱酱,Curry sauce,9,9,食物,food,调料,seasoning,0.664003976
+卡车,卡车,Truck,8.33,9,交通工具,transportation,车,vehicle,0.662101464
+卡丁车,卡丁车,Go-kart,9,9,交通工具,transportation,车,vehicle,0.695063366
+开瓶器,开瓶器,Bottle opener,9,9,人造物,artificial object,工具,tool,0.578678291
+开心果,开心果,Pistachio,9,8.33,植物,plant,水果,fruit,0.720226582
+康乃馨,康乃馨,Carnation,9,9,植物,plant,花草,flower,0.751842648
+考拉,考拉,Koala,9,9,动物,animal,陆生动物,terrestrial animal,0.8360777
+烤翅,烤翅,Grilled wings,9,9,食物,food,肉食,meat,0.70387015
+烤面包,烤面包,to toast bread,9,9,食物,food,固态干粮,solid food,0.736301273
+烤排骨,烤排骨,Roast pork ribs,9,9,食物,food,肉食,meat,0.710561735
+烤全羊,烤全羊,Roasted Whole Lamb,9,9,食物,food,肉食,meat,0.709534887
+烤肉,烤肉,barbecue,9,9,食物,food,肉食,meat,0.608870416
+烤肉串,烤肉串,kabob,9,9,食物,food,肉食,meat,0.697121366
+烤土豆,烤土豆,Baked potato,9,9,食物,food,固态干粮,solid food,0.66675461
+烤羊肉,烤羊肉,roast mutton,9,9,食物,food,肉食,meat,0.678215046
+靠垫,靠垫,Cushion,9,9,人造物,artificial object,工具,tool,0.732577144
+可可巧克力,可可巧克力,Cocoa chocolate,9,9,食物,food,固态干粮,solid food,0.730027066
+可口可乐,可口可乐,Coca Cola,9,9,食物,food,酒水饮料,drinks,0.737458504
+孔雀鱼,孔雀鱼,Guppy,8,9,动物,animal,水生动物,aquatic animal,0.818465746
+恐龙,恐龙,Dinosaur,9,9,动物,animal,陆生动物,terrestrial animal,0.769890161
+口腔,口腔,oral cavity,9,9,身体部位,body part,身体部位,body part,0.625243067
+口琴,口琴,Harmonica,9,9,人造物,artificial object,乐器,musical instrument,0.645516535
+扣肉,扣肉,Braised pork,9,9,食物,food,肉食,meat,0.645269427
+裤子,裤子,trousers,9,9,人造物,artificial object,服饰,dress,0.676576674
+筷子,筷子,chopsticks,9,9,人造物,artificial object,餐具,tableware,0.686292154
+葵花,葵花,Sunflower,9,9,植物,plant,花草,flower,0.759693588
+葵花籽,葵花籽,sunflower seed,9,9,食物,food,固态干粮,solid food,0.755602537
+昆虫,昆虫,insect,9,9,动物,animal,昆虫,insect,0.723452412
+扩音器,扩音器,Microphone,9,9,人造物,artificial object,乐器,musical instrument,0.67251201
+拉链,拉链,zipper,9,9,人造物,artificial object,服饰,dress,0.633921821
+喇叭,喇叭,horn,9,9,人造物,artificial object,乐器,musical instrument,0.634680792
+喇叭花,喇叭花,Morning glory,9,9,植物,plant,花草,flower,0.795001582
+腊肠,腊肠,Sausage,9,9,食物,food,肉食,meat,0.707373008
+腊肠犬,腊肠犬,The Dachshund,8.33,9,动物,animal,陆生动物,terrestrial animal,0.852381684
+腊肉,腊肉,Bacon,9,9,食物,food,肉食,meat,0.655513767
+蜡笔,蜡笔,crayon,9,9,人造物,artificial object,工具,tool,0.687107677
+蜡像,蜡像,wax figure,9,9,人造物,artificial object,工具,tool,0.604938073
+蜡烛,蜡烛,candle,9,9,人造物,artificial object,工具,tool,0.69784461
+辣椒粉,辣椒粉,cayenne pepper,9,9,食物,food,调料,seasoning,0.652640953
+辣椒酱,辣椒酱,chili patse,9,9,食物,food,调料,seasoning,0.770753082
+兰花,兰花,orchid,8.33,9,植物,plant,花草,flower,0.759435412
+栏杆,栏杆,Railing,9,9,人造物,artificial object,建筑,building,0.607488987
+蓝莓,蓝莓,Blueberry,9,9,植物,plant,水果,fruit,0.801083185
+蓝莓酸奶,蓝莓酸奶,Blueberry Yogurt,9,9,食物,food,酒水饮料,drinks,0.713137913
+篮板,篮板,backboard,9,9,人造物,artificial object,运动器材,sports equipment,0.48440678
+篮球,篮球,Basketball,9,9,人造物,artificial object,运动器材,sports equipment,0.688745541
+缆车,缆车,Cable Car,9,9,交通工具,transportation,车,vehicle,0.652633883
+懒人沙发,懒人沙发,Lazy sofa,9,9,人造物,artificial object,家具,furniture,0.681470604
+狼,狼,wolf,9,9,动物,animal,陆生动物,terrestrial animal,0.841815889
+老虎,老虎,tiger,9,9,动物,animal,陆生动物,terrestrial animal,0.859551015
+老鼠,老鼠,mouse,9,9,动物,animal,陆生动物,terrestrial animal,0.708653647
+雷达,雷达,radar,8.33,8.33,人造物,artificial object,电器,electric appliance,0.469906481
+肋骨,肋骨,Ribs,9,9,身体部位,body part,身体部位,body part,0.698360236
+泪珠,泪珠,Teardrops,9,9,身体部位,body part,身体部位,body part,0.598945323
+冷面,冷面,Cold noodles,9,9,食物,food,固态干粮,solid food,0.656051319
+梨,梨,Pear,9,9,植物,plant,水果,fruit,0.734795236
+篱笆,篱笆,bamboo fence,9,9,人造物,artificial object,建筑,building,0.549986116
+礼服,礼服,full dress,9,9,人造物,artificial object,服饰,dress,0.621355398
+礼帽,礼帽,formal hat,9,9,人造物,artificial object,服饰,dress,0.649555578
+李子,李子,plum,9,9,植物,plant,水果,fruit,0.780195828
+鲤鱼,鲤鱼,carp,9,9,动物,animal,水生动物,aquatic animal,0.757761982
+立交桥,立交桥,Flyover,9,9,人造物,artificial object,建筑,building,0.427924589
+沥青,沥青,asphalt,9,9,人造物,artificial object,工具,tool,0.602226934
+荔枝,荔枝,litchi,9,9,植物,plant,水果,fruit,0.805857311
+连翘,连翘,Forsythia suspensa,7.67,9,植物,plant,花草,flower,0.758679082
+连体衣,连体衣,one-piece garment,9,9,人造物,artificial object,服饰,dress,0.664843309
+连衣裙,连衣裙,Dress,9,9,人造物,artificial object,服饰,dress,0.6374941
+莲花,莲花,Lotus,9,9,植物,plant,花草,flower,0.827561203
+莲藕,莲藕,the lotus root,9,9,植物,plant,蔬菜,vegetable,0.746786321
+镰刀,镰刀,Sickle,9,9,人造物,artificial object,工具,tool,0.7668632
+凉粉,凉粉,Bean jelly,9,9,食物,food,固态干粮,solid food,0.675301584
+凉皮,凉皮,Cold Rice Noodles,9,9,食物,food,固态干粮,solid food,0.724299796
+凉鞋,凉鞋,Sandals,9,9,人造物,artificial object,服饰,dress,0.667819252
+猎豹,猎豹,Cheetah,8.33,9,动物,animal,陆生动物,terrestrial animal,0.835253641
+猎狗,猎狗,hound,8.33,9,动物,animal,陆生动物,terrestrial animal,0.826973562
+羚羊,羚羊,antelope,8.67,9,动物,animal,陆生动物,terrestrial animal,0.770249137
+领带,领带,necktie,9,9,人造物,artificial object,服饰,dress,0.701671575
+流星,流星,meteor,9,9,自然物,natural object,自然物,natural object,0.57836523
+榴莲,榴莲,Durian,9,9,植物,plant,水果,fruit,0.709271919
+柳树,柳树,Willow,9,9,植物,plant,树木,tree,0.714878939
+龙猫,龙猫,Totoro,8.33,9,动物,animal,陆生动物,terrestrial animal,0.695012907
+龙虾,龙虾,lobster,9,9,动物,animal,水生动物,aquatic animal,0.75967641
+楼梯,楼梯,Stairs,9,9,人造物,artificial object,工具,tool,0.551348166
+漏斗,漏斗,funnel,9,9,人造物,artificial object,工具,tool,0.514084683
+芦荟,芦荟,aloe,9,9,植物,plant,水果,fruit,0.801182242
+录像带,录像带,Video tape,9,9,人造物,artificial object,电器,electric appliance,0.612596759
+录像机,录像机,Video recorder,9,9,人造物,artificial object,电器,electric appliance,0.660226733
+录音机,录音机,Recorder,9,9,人造物,artificial object,电器,electric appliance,0.722378112
+鹿,鹿,deer,9,9,动物,animal,陆生动物,terrestrial animal,0.765259611
+路灯,路灯,street lamp,9,9,人造物,artificial object,电器,electric appliance,0.711812144
+路由器,路由器,Router,9,9,人造物,artificial object,电器,electric appliance,0.561303986
+露背装,露背装,Halter tops,9,9,人造物,artificial object,服饰,dress,0.692951995
+露珠,露珠,dewdrop,9,9,自然物,natural object,自然物,natural object,0.631525919
+轮胎,轮胎,tyre,9,9,人造物,artificial object,工具,tool,0.681339567
+轮椅,轮椅,wheelchair,9,9,人造物,artificial object,工具,tool,0.737977897
+罗汉松,罗汉松,Podocarpus,6,9,植物,plant,树木,tree,0.852753899
+萝卜,萝卜,radish,9,9,植物,plant,蔬菜,vegetable,0.8076198
+骡子,骡子,mule,9,9,动物,animal,陆生动物,terrestrial animal,0.800768362
+螺丝刀,螺丝刀,bolt driver,9,9,人造物,artificial object,工具,tool,0.613807225
+螺蛳,螺蛳,Snail,9,9,动物,animal,水生动物,aquatic animal,0.804764951
+骆驼,骆驼,camel,9,9,动物,animal,陆生动物,terrestrial animal,0.762774558
+驴肉,驴肉,flesh of a donkey,9,9,食物,food,肉食,meat,0.724938053
+绿灯,绿灯,green light,9,8.67,人造物,artificial object,电器,electric appliance,0.657072426
+绿豆,绿豆,Mung bean,9,9,植物,plant,蔬菜,vegetable,0.753367876
+绿豆汤,绿豆汤,Mung bean soup,9,9,食物,food,酒水饮料,drinks,0.74273217
+麻花,麻花,Hemp flowers,9,9,食物,food,固态干粮,solid food,0.765272994
+麻雀,麻雀,sparrow,8.67,9,动物,animal,鸟,bird,0.827635328
+马车,马车,carriage,9,9,交通工具,transportation,车,vehicle,0.751167886
+马齿苋,马齿苋,purslane,8,9,植物,plant,蔬菜,vegetable,0.76895122
+马桶,马桶,closestool,9,9,人造物,artificial object,家具,furniture,0.683253178
+蚂蝗,蚂蝗,Leech,8,9,动物,animal,昆虫,insect,0.699892025
+蚂蚁,蚂蚁,Ants,9,9,动物,animal,昆虫,insect,0.742468724
+麦穗,麦穗,Ears of Wheat,9,9,植物,plant,花草,flower,0.726317488
+麦田,麦田,Wheat field,9,8.67,人造物,artificial object,工具,tool,0.692871871
+馒头,馒头,Steamed buns,9,9,食物,food,固态干粮,solid food,0.722779227
+鳗鱼,鳗鱼,Eel,9,9,动物,animal,水生动物,aquatic animal,0.742287266
+满天星,满天星,babysbreath,8.67,9,植物,plant,花草,flower,0.738078325
+螨虫,螨虫,mite,9,8,动物,animal,昆虫,insect,0.537326709
+蔓越莓,蔓越莓,Cranberry,9,9,植物,plant,水果,fruit,0.780800291
+芒果,芒果,Mango,9,9,植物,plant,水果,fruit,0.767634855
+蟒蛇,蟒蛇,Python,9,9,动物,animal,陆生动物,terrestrial animal,0.841255805
+猫砂,猫砂,Cat litter,8.33,9,人造物,artificial object,工具,tool,0.515434061
+猫头鹰,猫头鹰,owl,9,9,动物,animal,鸟,bird,0.779566287
+毛豆,毛豆,Soybean,9,9,植物,plant,蔬菜,vegetable,0.790230746
+毛驴,毛驴,Donkey,9,9,动物,animal,陆生动物,terrestrial animal,0.718604009
+毛毛虫,毛毛虫,Caterpillar,9,9,动物,animal,昆虫,insect,0.770655917
+毛毯,毛毯,Blanket,9,9,人造物,artificial object,家具,furniture,0.759751036
+毛衣,毛衣,sweater,9,9,人造物,artificial object,服饰,dress,0.718374649
+茅草屋,茅草屋,Thatched cottage,9,9,人造物,artificial object,建筑,building,0.664232559
+牦牛,牦牛,Yak,9,9,动物,animal,陆生动物,terrestrial animal,0.7855664
+牦牛奶,牦牛奶,Yak milk,9,9,食物,food,酒水饮料,drinks,0.686512946
+帽子,帽子,Cap,9,9,人造物,artificial object,服饰,dress,0.622873982
+玫瑰,玫瑰,rose,9,9,植物,plant,花草,flower,0.811894552
+眉毛,眉毛,eyebrow,9,9,身体部位,body part,身体部位,body part,0.692965307
+梅花,梅花,Plum Blossom,9,9,植物,plant,花草,flower,0.75943516
+煤气,煤气,coal gas,9,9,自然物,natural object,自然物,natural object,0.724014656
+煤炭,煤炭,coal,9,9,自然物,natural object,自然物,natural object,0.642489879
+煤田,煤田,coalfield,9,8.67,自然物,natural object,自然物,natural object,0.486358733
+美洲狮,美洲狮,Puma,8.67,9,动物,animal,陆生动物,terrestrial animal,0.715043435
+门,门,door,9,9,人造物,artificial object,工具,tool,0.662924554
+门把手,门把手,Door handle,9,9,人造物,artificial object,工具,tool,0.637424476
+门铃,门铃,doorbell,9,9,人造物,artificial object,工具,tool,0.636090226
+门锁,门锁,Door lock,9,9,人造物,artificial object,工具,tool,0.718595513
+孟加拉虎,孟加拉虎,The Bengal tiger,8.67,9,动物,animal,陆生动物,terrestrial animal,0.715524656
+迷彩服,迷彩服,camouflage,9,9,人造物,artificial object,服饰,dress,0.677959644
+迷迭香,迷迭香,rosemary,8,9,植物,plant,花草,flower,0.701966926
+迷宫,迷宫,maze,9,9,人造物,artificial object,玩具,toy,0.518979054
+猕猴桃,猕猴桃,kiwifruit,9,9,植物,plant,水果,fruit,0.787529576
+麋鹿,麋鹿,Elk,9,9,动物,animal,陆生动物,terrestrial animal,0.848447753
+米饭,米饭,Steamed Rice,9,9,食物,food,固态干粮,solid food,0.719554849
+米线,米线,Rice Noodles,9,9,食物,food,固态干粮,solid food,0.773321498
+蜜蜂,蜜蜂,honeybee,9,9,动物,animal,昆虫,insect,0.75846403
+蜜饯,蜜饯,Candied fruit,9,9,食物,food,固态干粮,solid food,0.727562112
+蜜桃,蜜桃,honey peach,9,9,植物,plant,水果,fruit,0.833489969
+棉花,棉花,cotton,9,9,植物,plant,花草,flower,0.738583319
+棉花糖,棉花糖,Spun sugar,9,9,食物,food,固态干粮,solid food,0.744324806
+面包酱,面包酱,Bread sauce,9,9,食物,food,调料,seasoning,0.672664889
+面粉,面粉,flour,9,9,食物,food,固态干粮,solid food,0.682385239
+面筋,面筋,gluten,9,9,食物,food,固态干粮,solid food,0.605584991
+秒表,秒表,Stopwatch,9,9,人造物,artificial object,工具,tool,0.700900034
+灭火器,灭火器,Fire Extinguisher,9,9,人造物,artificial object,工具,tool,0.599985185
+摩天轮,摩天轮,Ferris wheel,9,9,人造物,artificial object,玩具,toy,0.682044842
+摩托车,摩托车,Motorcycle,9,9,交通工具,transportation,车,vehicle,0.679091357
+磨砂膏,磨砂膏,facial scrub,8.67,9,人造物,artificial object,工具,tool,0.479005661
+蘑菇,蘑菇,Mushroom,9,9,植物,plant,蔬菜,vegetable,0.734323144
+魔芋,魔芋,konjak,9,9,食物,food,固态干粮,solid food,0.648789955
+抹布,抹布,Cloth,9,9,人造物,artificial object,工具,tool,0.761759289
+抹香鲸,抹香鲸,The sperm whale,8.67,9,动物,animal,水生动物,aquatic animal,0.799224387
+茉莉花,茉莉花,Jasmine Flower,9,9,植物,plant,花草,flower,0.777155761
+母鸡,母鸡,Hen,8.67,9,动物,animal,鸟,bird,0.835759946
+母羊,母羊,Ewes,8.67,9,动物,animal,陆生动物,terrestrial animal,0.819356982
+牡丹,牡丹,peony,9,9,植物,plant,花草,flower,0.79099786
+牡蛎,牡蛎,Oysters,9,9,动物,animal,水生动物,aquatic animal,0.794609867
+拇指,拇指,thumb,9,9,身体部位,body part,身体部位,body part,0.722733901
+木槌,木槌,Mallet,8.67,9,人造物,artificial object,工具,tool,0.548476827
+木耳,木耳,Fungus,9,9,植物,plant,蔬菜,vegetable,0.72657408
+木瓜,木瓜,Papaya,9,9,植物,plant,水果,fruit,0.748856733
+木马,木马,Trojan horse,9,8.33,人造物,artificial object,玩具,toy,0.640459184
+木乃伊,木乃伊,Mummy,9,9,人造物,artificial object,工具,tool,0.641575375
+木偶,木偶,puppet,9,9,人造物,artificial object,玩具,toy,0.674772659
+木炭,木炭,charcoal,9,9,人造物,artificial object,工具,tool,0.657214397
+沐浴液,沐浴液,Bath foam,9,9,人造物,artificial object,工具,tool,0.653443874
+墓碑,墓碑,Tombstone,9,9,人造物,artificial object,建筑,building,0.576138148
+奶茶,奶茶,Tea with milk,9,9,食物,food,酒水饮料,drinks,0.660315201
+奶粉,奶粉,Powdered Milk,9,9,食物,food,酒水饮料,drinks,0.704049632
+奶酪,奶酪,cheese,9,9,食物,food,固态干粮,solid food,0.665441745
+奶牛,奶牛,Cow,9,9,动物,animal,陆生动物,terrestrial animal,0.796479581
+奶瓶,奶瓶,Feeding bottle,9,9,人造物,artificial object,餐具,tableware,0.664299061
+奶油,奶油,cream,9,9,食物,food,固态干粮,solid food,0.673038315
+南瓜,南瓜,Pumpkin,9,9,植物,plant,蔬菜,vegetable,0.733404455
+闹钟,闹钟,alarm clock,9,8.33,人造物,artificial object,工具,tool,0.708482091
+内裤,内裤,Underpants,9,9,人造物,artificial object,服饰,dress,0.692579151
+内衣,内衣,Underwear,9,9,人造物,artificial object,服饰,dress,0.682097212
+泥鳅,泥鳅,Loach,9,9,动物,animal,水生动物,aquatic animal,0.751377014
+泥团,泥团,Mud mass,9,9,自然物,natural object,自然物,natural object,0.612256054
+鲶鱼,鲶鱼,catfish,9,9,动物,animal,水生动物,aquatic animal,0.692670942
+鸟,鸟,bird,9,9,动物,animal,鸟,bird,0.791933523
+尿布,尿布,diaper,9,9,人造物,artificial object,服饰,dress,0.692776593
+柠檬,柠檬,lemon,9,9,植物,plant,水果,fruit,0.771176153
+柠檬水,柠檬水,Lemon squash,9,9,食物,food,酒水饮料,drinks,0.72655756
+牛,牛,cattle,9,9,动物,animal,陆生动物,terrestrial animal,0.796845354
+牛奶,牛奶,milk,9,9,食物,food,酒水饮料,drinks,0.788591216
+牛排,牛排,steak,9,9,食物,food,肉食,meat,0.755422653
+牛肉,牛肉,beef,9,9,食物,food,肉食,meat,0.700557582
+牛肉干,牛肉干,Dried beef,9,9,食物,food,肉食,meat,0.640036202
+牛肉面,牛肉面,Beef noodles,9,9,食物,food,固态干粮,solid food,0.758845922
+牛仔裤,牛仔裤,Jeans,9,9,人造物,artificial object,服饰,dress,0.742128663
+牛轧糖,牛轧糖,nougat,9,9,食物,food,固态干粮,solid food,0.680911852
+纽扣,纽扣,Button,9,9,人造物,artificial object,工具,tool,0.698915162
+暖气片,暖气片,Radiator,9,9,人造物,artificial object,家具,furniture,0.623673556
+排气扇,排气扇,Exhaust fan,9,9,人造物,artificial object,电器,electric appliance,0.708910661
+排球,排球,Volleyball,9,9,人造物,artificial object,运动器材,sports equipment,0.702681924
+排水管,排水管,A drain,9,9,人造物,artificial object,工具,tool,0.489625204
+盘子,盘子,plate,9,9,人造物,artificial object,餐具,tableware,0.727815625
+螃蟹,螃蟹,Crab,9,9,动物,animal,水生动物,aquatic animal,0.721167788
+跑步机,跑步机,Treadmill,9,9,人造物,artificial object,电器,electric appliance,0.670066693
+跑车,跑车,Sports car,9,9,交通工具,transportation,车,vehicle,0.728823697
+跑道,跑道,runway,9,9,人造物,artificial object,工具,tool,0.64939803
+跑鞋,跑鞋,Running shoes,9,9,人造物,artificial object,服饰,dress,0.799632272
+泡菜,泡菜,Pickled cabbage,9,9,植物,plant,蔬菜,vegetable,0.745911729
+泡泡糖,泡泡糖,Bubble gum,9,9,食物,food,固态干粮,solid food,0.761353383
+培根,培根,Bacon,9,9,食物,food,肉食,meat,0.666864389
+喷泉,喷泉,Fountain,9,9,人造物,artificial object,建筑,building,0.640555675
+盆,盆,basin,9,9,人造物,artificial object,工具,tool,0.698859881
+盆栽,盆栽,Potted plant,9,9,植物,plant,花草,flower,0.76078364
+碰碰车,碰碰车,Bumper car,9,9,交通工具,transportation,车,vehicle,0.660384831
+披风,披风,Cape,9,9,人造物,artificial object,服饰,dress,0.747781497
+披萨,披萨,Pizza,9,9,食物,food,固态干粮,solid food,0.725151786
+皮带,皮带,Belt,9,9,人造物,artificial object,服饰,dress,0.658152836
+皮肤,皮肤,skin,9,9,身体部位,body part,身体部位,body part,0.662338544
+皮夹克,皮夹克,leather jacket,9,9,人造物,artificial object,服饰,dress,0.696311523
+皮帽,皮帽,Leather Hat,9,9,人造物,artificial object,服饰,dress,0.754157087
+皮艇,皮艇,Kayak,9,9,交通工具,transportation,船,boat,0.583780828
+枇杷,枇杷,Loquat,8.33,9,植物,plant,水果,fruit,0.820972733
+啤酒杯,啤酒杯,Beer mug,9,9,人造物,artificial object,餐具,tableware,0.672813159
+琵琶,琵琶,Pipa,9,9,人造物,artificial object,乐器,musical instrument,0.632151375
+漂白剂,漂白剂,bleaching agents,9,9,人造物,artificial object,工具,tool,0.638772323
+瓢虫,瓢虫,Ladybug,9,9,动物,animal,昆虫,insect,0.825037617
+拼图,拼图,Puzzle,9,8.67,人造物,artificial object,玩具,toy,0.643298909
+乒乓球,乒乓球,Table Tennis,9,9,人造物,artificial object,运动器材,sports equipment,0.751021837
+平菇,平菇,Oyster mushroom,9,9,植物,plant,蔬菜,vegetable,0.746988679
+平头螺丝刀,平头螺丝刀,Flat-head screwdriver,9,9,人造物,artificial object,工具,tool,0.617793096
+苹果,苹果,Apple,9,9,植物,plant,水果,fruit,0.783936971
+苹果汁,苹果汁,Apple Juice,9,9,食物,food,酒水饮料,drinks,0.74527761
+屏幕,屏幕,screen,9,9,人造物,artificial object,电器,electric appliance,0.538934575
+瓶盖,瓶盖,bottle cap,9,9,人造物,artificial object,工具,tool,0.579814318
+瓶装水,瓶装水,Bottled Water,9,9,食物,food,酒水饮料,drinks,0.647915489
+瓶子,瓶子,bottle,9,9,人造物,artificial object,餐具,tableware,0.670553064
+瓶子树,瓶子树,bottle tree,5,9,植物,plant,树木,tree,0.768359167
+扑克,扑克,poker,9,9,人造物,artificial object,玩具,toy,0.665082455
+葡萄,葡萄,Grape,9,9,植物,plant,水果,fruit,0.832366116
+葡萄干,葡萄干,Raisins,9,9,食物,food,固态干粮,solid food,0.687718906
+葡萄酒,葡萄酒,Wine,9,9,食物,food,酒水饮料,drinks,0.734331945
+葡萄汁,葡萄汁,Grape Juice,9,9,食物,food,酒水饮料,drinks,0.80253498
+蒲公英,蒲公英,Dandelion,9,9,植物,plant,花草,flower,0.790152992
+普洱茶,普洱茶,Pu'er tea,9,9,食物,food,酒水饮料,drinks,0.691075365
+瀑布,瀑布,waterfall,9,9,自然物,natural object,自然物,natural object,0.719915043
+七巧板,七巧板,Neves,9,9,人造物,artificial object,玩具,toy,0.63298102
+脐橙,脐橙,Navel orange,9,9,植物,plant,水果,fruit,0.798408861
+棋盘,棋盘,Checkerboard,9,9,人造物,artificial object,玩具,toy,0.571052715
+企鹅,企鹅,penguin,9,9,动物,animal,鸟,bird,0.768468053
+气球,气球,balloon,9,9,人造物,artificial object,玩具,toy,0.699075729
+汽车,汽车,automobile,9,9,交通工具,transportation,车,vehicle,0.703217437
+汽车喇叭,汽车喇叭,Car Horn,9,9,人造物,artificial object,工具,tool,0.636295386
+汽水,汽水,Soda,9,9,食物,food,酒水饮料,drinks,0.770083676
+铅笔,铅笔,pencil,9,9,人造物,artificial object,工具,tool,0.756733124
+铅笔盒,铅笔盒,pencil case,9,9,人造物,artificial object,工具,tool,0.740301039
+铅球,铅球,Shot-put,9,9,人造物,artificial object,运动器材,sports equipment,0.690022814
+钱包,钱包,wallet,9,9,人造物,artificial object,工具,tool,0.650665004
+潜艇,潜艇,submarine,9,9,交通工具,transportation,船,boat,0.562301881
+枪,枪,gun,9,9,人造物,artificial object,武器,weapon,0.657809402
+墙纸,墙纸,wallpaper,9,9,人造物,artificial object,家具,furniture,0.613997349
+荞麦,荞麦,buckwheat,9,9,食物,food,固态干粮,solid food,0.752417795
+巧克力,巧克力,Chocolates,9,9,食物,food,固态干粮,solid food,0.664251646
+巧克力冰淇淋,巧克力冰淇淋,Chocolate Ice Cream,9,9,食物,food,固态干粮,solid food,0.801021541
+巧克力牛奶,巧克力牛奶,Chocolate milk,9,9,食物,food,酒水饮料,drinks,0.762657133
+切割机,切割机,Cutting machine,9,9,人造物,artificial object,电器,electric appliance,0.66690152
+茄子,茄子,eggplant,9,9,植物,plant,蔬菜,vegetable,0.737249192
+窃听器,窃听器,Eavesdropper,9,9,人造物,artificial object,电器,electric appliance,0.434507053
+芹菜,芹菜,Celery,9,9,植物,plant,蔬菜,vegetable,0.800821942
+青菜,青菜,Green vegetables,9,9,植物,plant,蔬菜,vegetable,0.789075578
+青梅,青梅,Green Plum,9,9,植物,plant,水果,fruit,0.702200489
+青苔,青苔,Moss,9,9,植物,plant,花草,flower,0.706442961
+清洁球,清洁球,Cleaning ball,9,9,人造物,artificial object,工具,tool,0.499272379
+清酒,清酒,Clear wine,9,9,食物,food,酒水饮料,drinks,0.769011838
+清汤,清汤,clear soup,9,9,食物,food,酒水饮料,drinks,0.704528302
+蜻蜓,蜻蜓,dragonfly,9,9,动物,animal,昆虫,insect,0.816725893
+秋刀鱼,秋刀鱼,Saury,9,9,动物,animal,水生动物,aquatic animal,0.684611499
+秋葵,秋葵,Okra,9,9,植物,plant,蔬菜,vegetable,0.768425006
+秋千,秋千,swing,9,9,人造物,artificial object,玩具,toy,0.627581537
+蚯蚓,蚯蚓,earthworm,9,9,动物,animal,昆虫,insect,0.748632104
+球门,球门,goal,9,8.67,人造物,artificial object,运动器材,sports equipment,0.547048323
+球拍,球拍,Racket,9,9,人造物,artificial object,运动器材,sports equipment,0.733174942
+球鞋,球鞋,gym shoes,9,9,人造物,artificial object,服饰,dress,0.719299172
+球衣,球衣,Jersey,9,9,人造物,artificial object,服饰,dress,0.708160692
+曲棍球,曲棍球,Hockey,9,9,人造物,artificial object,运动器材,sports equipment,0.675253751
+全麦饼干,全麦饼干,Graham crackers,9,9,食物,food,固态干粮,solid food,0.725169231
+全脂牛奶,全脂牛奶,Whole milk,9,9,食物,food,酒水饮料,drinks,0.780102315
+泉水,泉水,spring water,9,9,食物,food,酒水饮料,drinks,0.548507615
+雀斑,雀斑,Freckles,9,9,身体部位,body part,身体部位,body part,0.52303663
+裙子,裙子,skirt,9,9,人造物,artificial object,服饰,dress,0.645968413
+燃气灶,燃气灶,Gas stove,9,9,人造物,artificial object,电器,electric appliance,0.56691203
+热狗,热狗,Hot dog,9,9,食物,food,固态干粮,solid food,0.709092368
+热气球,热气球,Hot Air Balloon,9,9,交通工具,transportation,飞机,aircraft,0.638227703
+热水,热水,hot water,9,9,食物,food,酒水饮料,drinks,0.671691792
+热水袋,热水袋,hot-water bag,9,9,人造物,artificial object,工具,tool,0.628713113
+人行天桥,人行天桥,Footbridge,9,9,人造物,artificial object,建筑,building,0.612120357
+蝾螈,蝾螈,Salamander,7.67,9,动物,animal,昆虫,insect,0.776053795
+肉末,肉末,Minced meat,9,9,食物,food,肉食,meat,0.724387747
+肉汤,肉汤,broth,9,9,食物,food,酒水饮料,drinks,0.757668777
+肉丸,肉丸,Rice-meat dumplings,9,9,食物,food,肉食,meat,0.728438269
+乳鸽,乳鸽,Squab,9,9,动物,animal,鸟,bird,0.790950631
+润肤霜,润肤霜,body lotion,9,9,人造物,artificial object,工具,tool,0.736295201
+洒水车,洒水车,Watering car,9,9,交通工具,transportation,车,vehicle,0.705287511
+赛车,赛车,racing,9,9,交通工具,transportation,车,vehicle,0.713819049
+赛道,赛道,track,9,8.33,人造物,artificial object,工具,tool,0.5092887
+三轮车,三轮车,Tricycle,9,9,交通工具,transportation,车,vehicle,0.743946488
+三明治,三明治,Sandwich,9,9,食物,food,固态干粮,solid food,0.774924385
+三文鱼,三文鱼,Salmon,9,9,动物,animal,水生动物,aquatic animal,0.677380855
+三叶草,三叶草,Clover,9,9,植物,plant,花草,flower,0.764487284
+桑葚,桑葚,Mulberry,9,9,植物,plant,水果,fruit,0.81316076
+扫帚,扫帚,broom,9,9,人造物,artificial object,工具,tool,0.678072179
+沙尘暴,沙尘暴,Sand storm,9,9,自然物,natural object,自然物,natural object,0.608326358
+沙丁鱼,沙丁鱼,Sardine,8.67,9,动物,animal,水生动物,aquatic animal,0.717285339
+沙发,沙发,Sofa,9,9,人造物,artificial object,家具,furniture,0.797972703
+沙坑,沙坑,Bunker,9,9,自然物,natural object,自然物,natural object,0.601672964
+沙拉,沙拉,Salad,9,9,食物,food,固态干粮,solid food,0.736862004
+沙拉酱,沙拉酱,Salad dressing,9,9,食物,food,调料,seasoning,0.718101207
+沙粒,沙粒,Sand grains,9,9,自然物,natural object,自然物,natural object,0.572001735
+沙漏,沙漏,Hourglass,9,9,人造物,artificial object,工具,tool,0.633908233
+纱布,纱布,Gauze,9,9,人造物,artificial object,医疗用品,medical supplies,0.731995866
+砂锅,砂锅,Casserole,9,9,人造物,artificial object,餐具,tableware,0.650277399
+鲨鱼,鲨鱼,shark,9,9,动物,animal,水生动物,aquatic animal,0.834075016
+山羊,山羊,Goat,9,9,动物,animal,陆生动物,terrestrial animal,0.768833849
+山药,山药,Yam,9,9,植物,plant,蔬菜,vegetable,0.801549643
+山楂,山楂,Hawthorn,9,9,植物,plant,水果,fruit,0.823880207
+山竹,山竹,Mangosteen,9,9,植物,plant,水果,fruit,0.804527439
+杉木,杉木,Fir wood,8.67,9,植物,plant,树木,tree,0.69141527
+珊瑚,珊瑚,Coral,8.67,9,动物,animal,水生动物,aquatic animal,0.654994215
+扇贝,扇贝,Scallop in Shell,9,9,动物,animal,水生动物,aquatic animal,0.769363866
+扇子,扇子,Fan,9,9,人造物,artificial object,工具,tool,0.616950171
+烧杯,烧杯,Beaker,9,9,人造物,artificial object,工具,tool,0.670905011
+烧烤,烧烤,barbecue,9,9,食物,food,固态干粮,solid food,0.607759411
+勺子,勺子,Spoon,9,9,人造物,artificial object,餐具,tableware,0.71272257
+哨子,哨子,Whistle,9,9,人造物,artificial object,乐器,musical instrument,0.605913534
+蛇,蛇,snake,9,9,动物,animal,陆生动物,terrestrial animal,0.797073363
+摄像机,摄像机,Video camera,9,9,人造物,artificial object,电器,electric appliance,0.65763998
+生菜,生菜,romaine lettuce,9,9,植物,plant,蔬菜,vegetable,0.761933412
+生蚝,生蚝,Oysters,9,9,动物,animal,水生动物,aquatic animal,0.789023052
+生鱼片,生鱼片,Sashimi,9,9,食物,food,肉食,meat,0.739122566
+绳子,绳子,rope,9,9,人造物,artificial object,工具,tool,0.663710709
+圣诞树,圣诞树,christmas tree,9,9,植物,plant,树木,tree,0.687468171
+圣诞袜,圣诞袜,Christmas stocking,9,9,人造物,artificial object,服饰,dress,0.58500607
+狮子,狮子,lion,9,9,动物,animal,陆生动物,terrestrial animal,0.849750465
+十字螺丝刀,十字螺丝刀,Cross screwdriver,9,9,人造物,artificial object,工具,tool,0.698264076
+石碑,石碑,stone tablet,9,9,人造物,artificial object,建筑,building,0.642563534
+石膏,石膏,Gypsum,9,9,人造物,artificial object,医疗用品,medical supplies,0.625707559
+石榴,石榴,pomegranate,9,9,植物,plant,水果,fruit,0.782010369
+石头,石头,stone,9,9,自然物,natural object,自然物,natural object,0.625528734
+石油,石油,petroleum,9,9,自然物,natural object,自然物,natural object,0.675057593
+时钟,时钟,Clock,9,8.33,人造物,artificial object,工具,tool,0.737299372
+试卷,试卷,test paper,9,8.33,人造物,artificial object,工具,tool,0.502881014
+收费站,收费站,Toll Gate,9,9,人造物,artificial object,建筑,building,0.520054965
+收割机,收割机,Harvester,9,9,人造物,artificial object,电器,electric appliance,0.686725534
+收音机,收音机,Radio?,9,9,人造物,artificial object,电器,electric appliance,0.668068774
+手,手,hand,9,9,身体部位,body part,身体部位,body part,0.65806927
+手臂,手臂,Arm,9,9,身体部位,body part,身体部位,body part,0.690887625
+手表,手表,Wrist Watch,9,9,人造物,artificial object,工具,tool,0.710231412
+手电筒,手电筒,Flashlight,9,9,人造物,artificial object,电器,electric appliance,0.679159283
+手风琴,手风琴,Accordion,9,9,人造物,artificial object,乐器,musical instrument,0.668639053
+手机,手机,Mobile phone,9,9,人造物,artificial object,电器,electric appliance,0.731408637
+手榴弹,手榴弹,Grenade,9,9,人造物,artificial object,武器,weapon,0.598856467
+手枪,手枪,Pistol,9,9,人造物,artificial object,武器,weapon,0.663293049
+手术刀,手术刀,Surgical knife,9,9,人造物,artificial object,医疗用品,medical supplies,0.746419575
+手套,手套,glove,9,9,人造物,artificial object,服饰,dress,0.795052717
+手推车,手推车,Wheelbarrow,9,9,交通工具,transportation,车,vehicle,0.634019019
+手掌,手掌,Palm,9,9,身体部位,body part,身体部位,body part,0.67074882
+手指,手指,finger,9,9,身体部位,body part,身体部位,body part,0.673424814
+寿司,寿司,Sushi,9,9,食物,food,固态干粮,solid food,0.668881498
+寿衣,寿衣,Shroud,9,9,人造物,artificial object,服饰,dress,0.649456072
+书,书,book,9,9,人造物,artificial object,工具,tool,0.518586696
+书包,书包,A bag,9,9,人造物,artificial object,工具,tool,0.716980365
+书柜,书柜,Bookcase,9,9,人造物,artificial object,家具,furniture,0.602744298
+梳妆台,梳妆台,Dresser,9,9,人造物,artificial object,家具,furniture,0.588509655
+梳子,梳子,comb,9,9,人造物,artificial object,工具,tool,0.710988058
+蔬菜沙拉,蔬菜沙拉,Vegetable Salad,9,9,食物,food,固态干粮,solid food,0.757975765
+鼠,鼠,rat,9,9,动物,animal,陆生动物,terrestrial animal,0.766057203
+鼠标,鼠标,mouse,9,9,人造物,artificial object,电器,electric appliance,0.636845507
+鼠标垫,鼠标垫,Mouse pad,9,9,人造物,artificial object,工具,tool,0.558511666
+涮羊肉,涮羊肉,"Hot Pot, Mongolian Style",9,9,食物,food,肉食,meat,0.697799464
+双人床,双人床,Double bed,9,9,人造物,artificial object,家具,furniture,0.662495578
+爽身粉,爽身粉,Talcum powder,9,9,人造物,artificial object,工具,tool,0.672859165
+水,水,water,9,9,食物,food,酒水饮料,drinks,0.726934744
+水表,水表,Water meter,9,9,人造物,artificial object,工具,tool,0.659582273
+水槽,水槽,Water tank,9,9,人造物,artificial object,工具,tool,0.632977954
+水草,水草,Waterweed,9,9,植物,plant,花草,flower,0.703546894
+水管,水管,Water pipe,9,9,人造物,artificial object,工具,tool,0.604194914
+水果沙拉,水果沙拉,Fresh Fruit Salad,9,9,食物,food,固态干粮,solid food,0.680772994
+水壶,水壶,kettle,9,9,人造物,artificial object,餐具,tableware,0.675245722
+水晶,水晶,crystal,9,9,自然物,natural object,自然物,natural object,0.759301541
+水晶球,水晶球,Crystal ball,9,9,人造物,artificial object,玩具,toy,0.686146246
+水龙头,水龙头,Water tap,9,9,人造物,artificial object,工具,tool,0.662932898
+水蜜桃,水蜜桃,Honey peach,9,9,植物,plant,水果,fruit,0.868409003
+水母,水母,Jellyfish,9,9,动物,animal,水生动物,aquatic animal,0.795011099
+水泥,水泥,cement,9,9,人造物,artificial object,工具,tool,0.678316753
+水牛,水牛,Buffalo,8.67,9,动物,animal,陆生动物,terrestrial animal,0.757761341
+水枪,水枪,Water Gun,9,9,人造物,artificial object,玩具,toy,0.683979686
+水杉,水杉,Metasequoia,8.33,9,植物,plant,树木,tree,0.816557784
+水蛇,水蛇,Water snake,8.33,9,动物,animal,水生动物,aquatic animal,0.787173022
+水手服,水手服,Sailor suit,9,9,人造物,artificial object,服饰,dress,0.732275514
+水仙花,水仙花,Narcissus,9,9,植物,plant,花草,flower,0.745888859
+水蛭,水蛭,Leech,8.67,9,动物,animal,昆虫,insect,0.743634541
+睡袋,睡袋,Sleeping bag,9,9,人造物,artificial object,工具,tool,0.608924683
+睡衣,睡衣,pajamas,9,9,人造物,artificial object,服饰,dress,0.699789093
+丝瓜,丝瓜,Towel gourd,9,9,植物,plant,蔬菜,vegetable,0.834332896
+丝袜,丝袜,Silk stockings,9,9,人造物,artificial object,服饰,dress,0.613439593
+四季豆,四季豆,Sauteed Green Beans,8.67,9,植物,plant,蔬菜,vegetable,0.744304357
+四轮马车,四轮马车,Carriage,9,9,交通工具,transportation,车,vehicle,0.744208985
+松狮,松狮,Chow Chow,8.33,9,动物,animal,陆生动物,terrestrial animal,0.727340827
+松鼠,松鼠,Squirrel,9,9,动物,animal,陆生动物,terrestrial animal,0.741777228
+松树,松树,Pine,9,9,植物,plant,树木,tree,0.769100516
+苏打水,苏打水,Soda water,9,9,食物,food,酒水饮料,drinks,0.695325127
+速溶咖啡,速溶咖啡,Instant Coffee,9,9,食物,food,酒水饮料,drinks,0.766604015
+塑料袋,塑料袋,Plastic bag,9,9,人造物,artificial object,工具,tool,0.55667758
+酸菜,酸菜,pickled cabbage resembling sauerkraut,9,9,植物,plant,蔬菜,vegetable,0.661246893
+酸奶,酸奶,Yogurt,9,9,食物,food,酒水饮料,drinks,0.747061225
+蒜泥,蒜泥,mashed garlic,9,9,植物,plant,蔬菜,vegetable,0.642182379
+算盘,算盘,Abacus,9,9,人造物,artificial object,工具,tool,0.622316038
+碎纸机,碎纸机,shredder,9,9,人造物,artificial object,电器,electric appliance,0.728165115
+笋,笋,Bamboo shoot,9,9,植物,plant,蔬菜,vegetable,0.656278895
+锁,锁,lock,9,9,人造物,artificial object,工具,tool,0.648363821
+台球,台球,Billiards,9,9,人造物,artificial object,运动器材,sports equipment,0.597863648
+台球桌,台球桌,Pool table,9,9,人造物,artificial object,家具,furniture,0.670398357
+台式电脑,台式电脑,Desktop computer,9,9,人造物,artificial object,电器,electric appliance,0.789221678
+苔藓,苔藓,moss and lichen,9,9,植物,plant,水果,fruit,0.700096501
+太空舱,太空舱,Space capsule,9,9,交通工具,transportation,飞机,aircraft,0.603334158
+太空服,太空服,Space suit,9,9,人造物,artificial object,服饰,dress,0.577316457
+太师椅,太师椅,Old-fashioned wooden armchair,8,9,人造物,artificial object,家具,furniture,0.64483461
+太阳,太阳,sunlight,9,8.67,自然物,natural object,自然物,natural object,0.699849424
+太阳镜,太阳镜,Sunglasses,9,9,人造物,artificial object,工具,tool,0.711015839
+坛子,坛子,Earthen jar,9,9,人造物,artificial object,工具,tool,0.594049209
+昙花,昙花,Epiphyllum,8.33,9,植物,plant,花草,flower,0.776943907
+坦克,坦克,Tank,9,9,人造物,artificial object,武器,weapon,0.671346522
+汤匙,汤匙,Soup spoon,9,9,人造物,artificial object,餐具,tableware,0.736536718
+汤碗,汤碗,Soup bowl,9,9,人造物,artificial object,餐具,tableware,0.757643192
+糖果,糖果,candy,9,9,食物,food,固态干粮,solid food,0.678474991
+糖浆,糖浆,syrup,9,9,食物,food,酒水饮料,drinks,0.658660308
+螳螂,螳螂,mantis,9,9,动物,animal,昆虫,insect,0.744433092
+桃子,桃子,Peach,9,9,植物,plant,水果,fruit,0.82874933
+陶罐,陶罐,pot,9,9,人造物,artificial object,工具,tool,0.709665921
+体温计,体温计,The thermometer,9,9,人造物,artificial object,医疗用品,medical supplies,0.709625032
+剃须刀,剃须刀,Razor,9,9,人造物,artificial object,电器,electric appliance,0.683779575
+剃须泡沫,剃须泡沫,shaving foam,9,9,人造物,artificial object,工具,tool,0.66468616
+天秤,天秤,Scales,9,9,人造物,artificial object,工具,tool,0.625346232
+天鹅,天鹅,Swan,8.67,9,动物,animal,鸟,bird,0.833804006
+天牛,天牛,Longicorn,5,9,动物,animal,昆虫,insect,0.798735653
+天文望远镜,天文望远镜,Astronomical telescope,9,9,人造物,artificial object,工具,tool,0.63902146
+天线,天线,antenna,9,9,人造物,artificial object,电器,electric appliance,0.558926406
+天竺葵,天竺葵,Geranium,8.33,9,植物,plant,花草,flower,0.813968812
+甜点,甜点,Desserts,9,9,食物,food,固态干粮,solid food,0.64281401
+甜甜圈,甜甜圈,doughnut,9,9,食物,food,固态干粮,solid food,0.736425455
+甜玉米,甜玉米,sweet corn,9,9,植物,plant,蔬菜,vegetable,0.762522734
+调料,调料,Seasoning,9,9,食物,food,调料,seasoning,0.709710515
+跳蚤,跳蚤,flea,8.33,9,动物,animal,昆虫,insect,0.723444284
+铁链,铁链,iron chain,9,9,人造物,artificial object,工具,tool,0.65377832
+铁丝网,铁丝网,wire mesh,9,9,人造物,artificial object,工具,tool,0.537204673
+通心粉,通心粉,macaroni,9,9,食物,food,固态干粮,solid food,0.749032723
+茼蒿,茼蒿,chrysanthemum coronarium,9,9,植物,plant,蔬菜,vegetable,0.704464575
+桶,桶,bucket,9,9,人造物,artificial object,工具,tool,0.668170004
+头,头,head,9,9,身体部位,body part,身体部位,body part,0.692394581
+头发,头发,Hair,9,9,身体部位,body part,身体部位,body part,0.552170491
+头巾,头巾,Scarf,9,9,人造物,artificial object,服饰,dress,0.736980006
+头盔,头盔,Helmet,9,9,人造物,artificial object,工具,tool,0.747926652
+头皮,头皮,scalp,9,9,身体部位,body part,身体部位,body part,0.625648401
+头饰,头饰,Headwear,9,9,人造物,artificial object,服饰,dress,0.672391911
+骰子,骰子,dice,9,9,人造物,artificial object,玩具,toy,0.718574555
+透明胶带,透明胶带,scotch tape,9,9,人造物,artificial object,工具,tool,0.596940704
+秃鹰,秃鹰,Vulture,9,9,动物,animal,鸟,bird,0.831730399
+图钉,图钉,Thumbtack,9,9,人造物,artificial object,工具,tool,0.645244816
+土豆,土豆,Potato,9,9,植物,plant,蔬菜,vegetable,0.77037983
+土豆泥,土豆泥,Mashed Potato,9,9,食物,food,固态干粮,solid food,0.675177271
+兔,兔,rabbit,9,9,动物,animal,陆生动物,terrestrial animal,0.78820187
+兔子,兔子,Rabbit,9,9,动物,animal,陆生动物,terrestrial animal,0.820338894
+推土机,推土机,Bulldozer,9,9,交通工具,transportation,车,vehicle,0.648094005
+腿,腿,leg,9,9,身体部位,body part,身体部位,body part,0.804334563
+豚鼠,豚鼠,guinea pig,8.67,9,动物,animal,陆生动物,terrestrial animal,0.78910108
+臀部,臀部,hips,9,9,身体部位,body part,身体部位,body part,0.62452181
+托盘,托盘,Tray,9,9,人造物,artificial object,餐具,tableware,0.585673669
+拖把,拖把,Mop,9,9,人造物,artificial object,工具,tool,0.762260284
+拖鞋,拖鞋,Slipper,9,9,人造物,artificial object,服饰,dress,0.71808705
+脱脂奶粉,脱脂奶粉,non-fat milk powder,9,9,食物,food,酒水饮料,drinks,0.697457348
+陀螺,陀螺,top,9,9,人造物,artificial object,玩具,toy,0.536415702
+鸵鸟,鸵鸟,ostrich,9,9,动物,animal,鸟,bird,0.763264605
+挖掘机,挖掘机,Excavating machinery,9,9,交通工具,transportation,车,vehicle,0.687854097
+袜子,袜子,Socks,9,9,人造物,artificial object,服饰,dress,0.754048516
+外套,外套,Loose coat,9,9,人造物,artificial object,服饰,dress,0.785006092
+豌豆,豌豆,peas,9,9,植物,plant,蔬菜,vegetable,0.81723585
+碗,碗,bowl,9,9,人造物,artificial object,餐具,tableware,0.745402597
+万花筒,万花筒,Kaleidoscope,9,9,人造物,artificial object,玩具,toy,0.589178533
+王冠,王冠,crown,9,9,人造物,artificial object,服饰,dress,0.621274581
+王座,王座,throne,9,9,人造物,artificial object,服饰,dress,0.487967322
+网纹蟒,网纹蟒,Anaconda reticulata,8.67,9,动物,animal,陆生动物,terrestrial animal,0.741038409
+望远镜,望远镜,Telescope,9,9,人造物,artificial object,工具,tool,0.568627631
+威士忌酒,威士忌酒,Whisky,9,9,食物,food,酒水饮料,drinks,0.694246389
+围巾,围巾,scarf,9,9,人造物,artificial object,服饰,dress,0.647848221
+围裙,围裙,apron,9,9,人造物,artificial object,服饰,dress,0.671826723
+卫生巾,卫生巾,Tampon,9,9,人造物,artificial object,工具,tool,0.647782929
+卫生纸,卫生纸,Toilet paper,9,9,人造物,artificial object,工具,tool,0.682867116
+味精,味精,monosodium glutamate,9,9,食物,food,调料,seasoning,0.74443665
+温度计,温度计,thermometer,9,9,人造物,artificial object,工具,tool,0.721694008
+蚊帐,蚊帐,Mosquito net,9,9,人造物,artificial object,工具,tool,0.662480913
+蚊子,蚊子,mosquito,9,9,动物,animal,昆虫,insect,0.745302465
+莴笋,莴笋,Lettuce,9,9,植物,plant,蔬菜,vegetable,0.785635994
+蜗牛,蜗牛,snail,9,9,动物,animal,昆虫,insect,0.779674283
+乌龟,乌龟,Tortoise,9,9,动物,animal,水生动物,aquatic animal,0.756471855
+乌龙茶,乌龙茶,Oolong Tea,9,9,食物,food,酒水饮料,drinks,0.664282489
+乌鸦,乌鸦,Crow,9,9,动物,animal,鸟,bird,0.785627448
+乌贼,乌贼,A squid,9,9,动物,animal,水生动物,aquatic animal,0.740296602
+无花果,无花果,Fig,9,9,植物,plant,水果,fruit,0.767323233
+无人机,无人机,UAV,9,9,人造物,artificial object,电器,electric appliance,0.595077754
+梧桐,梧桐,Stellaria Japonica,9,9,植物,plant,树木,tree,0.714587256
+蜈蚣,蜈蚣,centipede,9,9,动物,animal,昆虫,insect,0.784718077
+西瓜,西瓜,watermelon,9,9,植物,plant,水果,fruit,0.839231935
+西红柿,西红柿,Tomatoes,9,9,植物,plant,蔬菜,vegetable,0.838154183
+西葫芦,西葫芦,Squash,9,9,植物,plant,蔬菜,vegetable,0.820450622
+西裤,西裤,Western-style trousers,9,9,人造物,artificial object,服饰,dress,0.624579003
+西兰花,西兰花,Broccoli,9,9,植物,plant,蔬菜,vegetable,0.759910913
+西装,西装,suit,9,9,人造物,artificial object,服饰,dress,0.657827496
+吸管,吸管,Straw,9,9,人造物,artificial object,工具,tool,0.657948904
+吸油烟机,吸油烟机,Range hood,9,9,人造物,artificial object,电器,electric appliance,0.651977629
+稀饭,稀饭,Rice porridge,9,9,食物,food,酒水饮料,drinks,0.682812576
+犀牛,犀牛,rhinoceros,9,9,动物,animal,陆生动物,terrestrial animal,0.780022447
+蜥蜴,蜥蜴,lizard,9,9,动物,animal,昆虫,insect,0.852295034
+膝盖,膝盖,knee,9,9,身体部位,body part,身体部位,body part,0.653971624
+蟋蟀,蟋蟀,cricket,9,9,动物,animal,昆虫,insect,0.777966331
+洗脸盆,洗脸盆,Wash Basin,9,9,人造物,artificial object,工具,tool,0.795936975
+洗手液,洗手液,Liquid soap,9,9,人造物,artificial object,工具,tool,0.691085613
+洗碗机,洗碗机,Dishwasher,9,9,人造物,artificial object,电器,electric appliance,0.686614893
+洗衣机,洗衣机,Washing machine,9,9,人造物,artificial object,电器,electric appliance,0.695493668
+喜鹊,喜鹊,Magpie,9,9,动物,animal,鸟,bird,0.829457093
+虾,虾,shrimp,9,9,动物,animal,水生动物,aquatic animal,0.76479689
+仙人掌,仙人掌,Cactus,9,9,植物,plant,花草,flower,0.796724566
+纤毛虫,纤毛虫,a ciliate,5.33,9,动物,animal,昆虫,insect,0.660375161
+显示器,显示器,Monitor,9,9,人造物,artificial object,电器,electric appliance,0.63204193
+显微镜,显微镜,Microscope,9,9,人造物,artificial object,工具,tool,0.710795699
+馅饼,馅饼,Pie,9,9,食物,food,固态干粮,solid food,0.75562425
+相机,相机,camera,9,9,人造物,artificial object,电器,electric appliance,0.652699423
+香槟,香槟,champagne,9,9,食物,food,酒水饮料,drinks,0.663436279
+香槟杯,香槟杯,Champagne Cup,9,9,人造物,artificial object,餐具,tableware,0.699930294
+香菜,香菜,coriander,9,9,植物,plant,蔬菜,vegetable,0.806594215
+香草冰淇淋,香草冰淇淋,Vanilla Ice Cream,9,9,食物,food,固态干粮,solid food,0.758318594
+香肠,香肠,sausage,9,9,食物,food,肉食,meat,0.718209007
+香菇,香菇,mushrooms,9,9,植物,plant,蔬菜,vegetable,0.66385946
+香蕉,香蕉,Banana,9,9,植物,plant,水果,fruit,0.743235725
+香水,香水,Perfume,9,9,人造物,artificial object,工具,tool,0.552520223
+香烟,香烟,cigarette,9,9,食物,food,固态干粮,solid food,0.671052632
+箱子,箱子,case,9,9,人造物,artificial object,家具,furniture,0.675299683
+响尾蛇,响尾蛇,Rattlesnake,9,9,动物,animal,陆生动物,terrestrial animal,0.708622982
+向日葵,向日葵,Sunflower,9,9,植物,plant,花草,flower,0.783449265
+项链,项链,Necklace,9,9,人造物,artificial object,服饰,dress,0.747249015
+项圈,项圈,a collar for a horse,9,9,人造物,artificial object,工具,tool,0.563716828
+橡皮,橡皮,rubber,9,9,人造物,artificial object,工具,tool,0.578673074
+消防车,消防车,fire engine,9,9,交通工具,transportation,车,vehicle,0.717813051
+消防栓,消防栓,Fire Hydrant,9,9,人造物,artificial object,工具,tool,0.54385164
+小白菜,小白菜,A variety of Chinese cabbage,9,9,植物,plant,蔬菜,vegetable,0.834802799
+小凳子,小凳子,Stool,9,9,人造物,artificial object,家具,furniture,0.672476297
+小龙虾,小龙虾,Crayfish,9,9,动物,animal,水生动物,aquatic animal,0.787008807
+小麦,小麦,Wheat,9,9,食物,food,固态干粮,solid food,0.765841055
+小米,小米,millet,9,9,食物,food,固态干粮,solid food,0.581863225
+小提琴,小提琴,Violin,9,9,人造物,artificial object,乐器,musical instrument,0.686545453
+鞋,鞋,shoes,9,9,人造物,artificial object,服饰,dress,0.705554892
+鞋带,鞋带,Shoelace,9,9,人造物,artificial object,服饰,dress,0.671655713
+鞋垫,鞋垫,Insole,9,9,人造物,artificial object,服饰,dress,0.559906323
+鞋柜,鞋柜,Shoe cabinet,9,9,人造物,artificial object,家具,furniture,0.669918699
+心脏,心脏,heart,9,9,身体部位,body part,身体部位,body part,0.670091983
+信封,信封,envelope,9,9,人造物,artificial object,工具,tool,0.604224208
+信天翁,信天翁,Albatross,8.67,9,动物,animal,鸟,bird,0.746573692
+信箱,信箱,mailbox,9,9,人造物,artificial object,工具,tool,0.473116941
+信纸,信纸,Stationery,9,9,人造物,artificial object,工具,tool,0.599550257
+星星,星星,Stars,9,8.33,自然物,natural object,自然物,natural object,0.74148368
+猩猩,猩猩,chimpanzee,9,9,动物,animal,陆生动物,terrestrial animal,0.818789189
+杏仁,杏仁,Almond,9,9,植物,plant,水果,fruit,0.638510928
+杏子,杏子,Apricots,9,9,植物,plant,水果,fruit,0.789172768
+熊,熊,The bear,9,9,动物,animal,陆生动物,terrestrial animal,0.701057301
+熊猫,熊猫,panda,9,9,动物,animal,陆生动物,terrestrial animal,0.829414057
+旋转门,旋转门,Revolving door,9,9,人造物,artificial object,工具,tool,0.570084155
+旋转椅,旋转椅,Swivel chair,9,9,人造物,artificial object,家具,furniture,0.751186631
+雪花,雪花,snowflake,9,9,自然物,natural object,自然物,natural object,0.643415733
+雪茄,雪茄,Cigar,9,9,食物,food,固态干粮,solid food,0.642094127
+雪球,雪球,snowball,9,9,自然物,natural object,自然物,natural object,0.701801363
+雪绒花,雪绒花,Edelweiss,5,8.33,植物,plant,花草,flower,0.700965465
+血管,血管,blood vessel,9,9,身体部位,body part,身体部位,body part,0.609251028
+血压计,血压计,sphygmomanometer,9,9,人造物,artificial object,医疗用品,medical supplies,0.540736093
+血液,血液,blood,9,9,人造物,artificial object,工具,tool,0.591074108
+薰衣草,薰衣草,Lavender,9,9,植物,plant,花草,flower,0.797126788
+鸭脖,鸭脖,Duck neck,9,9,食物,food,肉食,meat,0.625009578
+鸭梨,鸭梨,Yali,8.67,9,植物,plant,水果,fruit,0.812729205
+鸭肉,鸭肉,Duck meat,9,9,食物,food,肉食,meat,0.735204234
+鸭子,鸭子,duck,9,9,动物,animal,鸟,bird,0.785670545
+鸭嘴兽,鸭嘴兽,platypus,9,9,动物,animal,陆生动物,terrestrial animal,0.74863545
+牙齿,牙齿,tooth,9,9,身体部位,body part,身体部位,body part,0.682944606
+牙签,牙签,Toothpick,9,9,人造物,artificial object,工具,tool,0.704891863
+牙线,牙线,Floss,9,9,人造物,artificial object,工具,tool,0.73129286
+哑铃,哑铃,dumbbell,9,9,人造物,artificial object,运动器材,sports equipment,0.650868927
+烟囱,烟囱,chimney,9,9,人造物,artificial object,建筑,building,0.553816006
+烟灰缸,烟灰缸,ashtray,9,9,人造物,artificial object,工具,tool,0.668886704
+烟头,烟头,cigarette butt,9,9,人造物,artificial object,工具,tool,0.538924894
+岩石,岩石,rock,9,9,自然物,natural object,自然物,natural object,0.491111531
+颜料,颜料,Pigment,9,9,人造物,artificial object,工具,tool,0.593111447
+眼睛,眼睛,eye,9,9,身体部位,body part,身体部位,body part,0.642458799
+眼镜,眼镜,glasses,9,9,人造物,artificial object,工具,tool,0.653003768
+眼镜盒,眼镜盒,glasses case,9,9,人造物,artificial object,工具,tool,0.638281825
+眼罩,眼罩,patch,9,9,人造物,artificial object,工具,tool,0.595436146
+鼹鼠,鼹鼠,mole,8.67,9,动物,animal,陆生动物,terrestrial animal,0.793945608
+燕麦片,燕麦片,oatmeal,9,9,食物,food,酒水饮料,drinks,0.645849273
+燕尾服,燕尾服,Swallowtail,9,9,人造物,artificial object,服饰,dress,0.633043444
+燕子,燕子,swallow,9,9,动物,animal,鸟,bird,0.831063262
+扬声器,扬声器,speaker,9,9,人造物,artificial object,乐器,musical instrument,0.619930175
+羊毛衣,羊毛衣,Woollen clothing,9,9,人造物,artificial object,服饰,dress,0.720271074
+羊皮纸,羊皮纸,parchment,9,9,人造物,artificial object,工具,tool,0.682537857
+羊肉,羊肉,mutton,9,9,食物,food,肉食,meat,0.641039845
+羊驼,羊驼,Alpaca,9,9,动物,animal,陆生动物,terrestrial animal,0.815802198
+杨梅,杨梅,Myrica rubra,9,9,植物,plant,水果,fruit,0.784540049
+杨桃,杨桃,Carambola,9,9,植物,plant,水果,fruit,0.742955502
+洋葱,洋葱,onion,9,9,植物,plant,蔬菜,vegetable,0.771322908
+洋娃娃,洋娃娃,Dolly,9,9,人造物,artificial object,玩具,toy,0.618964401
+氧气面罩,氧气面罩,Oxygen mask,9,9,人造物,artificial object,医疗用品,medical supplies,0.618112384
+腰带,腰带,belt,9,9,人造物,artificial object,服饰,dress,0.705012361
+摇篮,摇篮,cradle,9,9,人造物,artificial object,工具,tool,0.669248099
+摇椅,摇椅,Rocking chair,9,9,人造物,artificial object,家具,furniture,0.71026455
+钥匙,钥匙,key,9,9,人造物,artificial object,工具,tool,0.677481068
+钥匙圈,钥匙圈,Key ring,9,9,人造物,artificial object,工具,tool,0.613234565
+椰子,椰子,Coconut,9,9,植物,plant,水果,fruit,0.799085493
+野鸡,野鸡,pheasant,9,9,动物,animal,鸟,bird,0.824466084
+野兔,野兔,hare,9,9,动物,animal,陆生动物,terrestrial animal,0.80218363
+夜来香,夜来香,Night willow herb,5.67,8.33,植物,plant,花草,flower,0.773826668
+衣柜,衣柜,wardrobe,9,9,人造物,artificial object,家具,furniture,0.698473502
+椅子,椅子,Chair,9,9,人造物,artificial object,家具,furniture,0.664085484
+疫苗,疫苗,vaccines,9,9,人造物,artificial object,医疗用品,medical supplies,0.527792356
+意大利面,意大利面,Pasta,9,9,食物,food,固态干粮,solid food,0.665819003
+翼龙,翼龙,Pterosaur,5.67,8.33,动物,animal,陆生动物,terrestrial animal,0.870191034
+音乐盒,音乐盒,Music box,9,9,人造物,artificial object,乐器,musical instrument,0.770167893
+音箱,音箱,loudspeaker box,9,9,人造物,artificial object,电器,electric appliance,0.651164305
+银耳,银耳,Tremella fuciformis,9,9,植物,plant,蔬菜,vegetable,0.681664357
+银环蛇,银环蛇,Bungarus multicinctus,6,9,动物,animal,陆生动物,terrestrial animal,0.801687123
+银幕,银幕,screen,9,9,人造物,artificial object,工具,tool,0.628568075
+饮水机,饮水机,Water dispenser,9,9,人造物,artificial object,餐具,tableware,0.720917768
+婴儿车,婴儿车,Baby carriage,9,9,交通工具,transportation,车,vehicle,0.674068554
+罂粟,罂粟,opium poppy,9,9,植物,plant,花草,flower,0.655083799
+樱桃,樱桃,Cherry,9,9,植物,plant,水果,fruit,0.750628557
+鹰,鹰,eagle,9,9,动物,animal,鸟,bird,0.844180023
+迎春花,迎春花,Jasmine,8.67,9,植物,plant,花草,flower,0.766448285
+荧光笔,荧光笔,Fluorescent pen,9,9,人造物,artificial object,工具,tool,0.661635679
+萤火虫,萤火虫,glowworm,9,9,动物,animal,昆虫,insect,0.79531592
+映山红,映山红,Rhododendron simsii,6.33,9,植物,plant,花草,flower,0.756742481
+硬币,硬币,Coin,9,9,人造物,artificial object,工具,tool,0.650405442
+泳裤,泳裤,Swimming trunks,9,9,人造物,artificial object,服饰,dress,0.739483204
+泳帽,泳帽,Bathing cap,9,9,人造物,artificial object,服饰,dress,0.709079077
+泳装,泳装,Swimwear,9,9,人造物,artificial object,服饰,dress,0.773353035
+邮票,邮票,stamp,9,9,人造物,artificial object,工具,tool,0.613665433
+邮筒,邮筒,mailbox,9,9,人造物,artificial object,工具,tool,0.550011705
+油,油,oil,9,9,食物,food,调料,seasoning,0.613207954
+油饼,油饼,Oil cake,9,9,食物,food,固态干粮,solid food,0.717959153
+油菜花,油菜花,Cole flowers,9,9,植物,plant,花草,flower,0.719703671
+油麦菜,油麦菜,Lettuce,9,9,植物,plant,蔬菜,vegetable,0.826788922
+油漆,油漆,paint,9,9,人造物,artificial object,工具,tool,0.602322186
+油条,油条,Deep-Fried Dough Sticks,9,9,食物,food,固态干粮,solid food,0.760376551
+鱿鱼,鱿鱼,squid,9,9,动物,animal,水生动物,aquatic animal,0.770166152
+游轮,游轮,Cruise,9,9,交通工具,transportation,船,boat,0.669516429
+游艇,游艇,yacht,9,9,交通工具,transportation,船,boat,0.608590761
+有轨电车,有轨电车,Tram,9,9,交通工具,transportation,车,vehicle,0.749847238
+柚子,柚子,grapefruit,9,9,植物,plant,水果,fruit,0.746353185
+鱼,鱼,fish,9,9,动物,animal,水生动物,aquatic animal,0.742619039
+鱼丸,鱼丸,Fish ball,9,9,食物,food,肉食,meat,0.733633378
+虞美人,虞美人,corn poppy,8.33,9,植物,plant,花草,flower,0.674015122
+羽毛,羽毛,Feather,9,9,身体部位,body part,身体部位,body part,0.741109636
+羽毛球,羽毛球,badminton,9,9,人造物,artificial object,运动器材,sports equipment,0.698095969
+羽毛球拍,羽毛球拍,Badminton racket,9,9,人造物,artificial object,运动器材,sports equipment,0.710599848
+羽绒服,羽绒服,Down Jackets,9,9,人造物,artificial object,服饰,dress,0.726875843
+雨伞,雨伞,Umbrella,9,9,人造物,artificial object,工具,tool,0.647501682
+雨衣,雨衣,Raincoat,9,9,人造物,artificial object,服饰,dress,0.71376379
+玉兰,玉兰,yulan,8.33,9,植物,plant,花草,flower,0.762427433
+玉米,玉米,Corn,9,9,植物,plant,蔬菜,vegetable,0.725716994
+玉米面,玉米面,corn meal,9,9,食物,food,固态干粮,solid food,0.732279421
+芋头,芋头,Taro,9,9,植物,plant,蔬菜,vegetable,0.774240682
+郁金香,郁金香,tulips,9,9,植物,plant,花草,flower,0.834673316
+浴巾,浴巾,Bath towel,9,9,人造物,artificial object,服饰,dress,0.754659147
+浴帘,浴帘,Shower curtain,9,9,人造物,artificial object,家具,furniture,0.641635526
+浴盆,浴盆,Bathtub,9,9,人造物,artificial object,家具,furniture,0.655233605
+浴衣,浴衣,Bathrobe,9,9,人造物,artificial object,服饰,dress,0.692818391
+鸳鸯,鸳鸯,Mandarin Duck,9,8.33,动物,animal,鸟,bird,0.723586757
+原子弹,原子弹,Atomic Bomb,9,9,人造物,artificial object,武器,weapon,0.647434064
+月亮,月亮,Moon,9,9,自然物,natural object,自然物,natural object,0.515692383
+运钞车,运钞车,Cash carrier,8.67,9,交通工具,transportation,车,vehicle,0.671338519
+运动服,运动服,Athletic Wear,9,9,人造物,artificial object,服饰,dress,0.717008964
+运动裤,运动裤,Sports pants,9,9,人造物,artificial object,服饰,dress,0.754480922
+运动鞋,运动鞋,gym shoes,9,9,人造物,artificial object,服饰,dress,0.731761314
+运动装,运动装,Sportswear,9,9,人造物,artificial object,服饰,dress,0.723395801
+熨斗,熨斗,Iron,9,9,人造物,artificial object,电器,electric appliance,0.639297444
+枣,枣,Jujube,9,9,植物,plant,水果,fruit,0.770250606
+皂角,皂角,Gleditsia sinensis,8.67,9,植物,plant,树木,tree,0.702634862
+灶,灶,Stove,9,9,人造物,artificial object,建筑,building,0.599513005
+栅栏,栅栏,Fence,9,9,人造物,artificial object,建筑,building,0.527801134
+炸弹,炸弹,bomb,9,9,人造物,artificial object,武器,weapon,0.628496204
+炸酱面,炸酱面,Noodles with Soy Bean Paste,9,9,食物,food,固态干粮,solid food,0.781383328
+炸薯条,炸薯条,French fries,9,9,食物,food,固态干粮,solid food,0.735157018
+蚱蜢,蚱蜢,grasshopper,8.67,9,动物,animal,昆虫,insect,0.797777294
+榨汁机,榨汁机,Juicer,9,9,人造物,artificial object,电器,electric appliance,0.69565147
+粘蝇纸,粘蝇纸,Sticky fly paper,9,9,人造物,artificial object,工具,tool,0.586897593
+章鱼,章鱼,octopus,9,9,动物,animal,水生动物,aquatic animal,0.771493846
+樟子松,樟子松,Pinus sylvestris,5.67,9,植物,plant,树木,tree,0.853955688
+蟑螂夹,蟑螂夹,Cockroach clip,9,9,人造物,artificial object,工具,tool,0.63498654
+长凳,长凳,bench,9,9,人造物,artificial object,家具,furniture,0.66892301
+长笛,长笛,flute,9,9,人造物,artificial object,乐器,musical instrument,0.657052104
+长号,长号,Trombone,8.33,9,人造物,artificial object,乐器,musical instrument,0.651576943
+长裤,长裤,trousers,9,9,人造物,artificial object,服饰,dress,0.73408523
+长袍,长袍,robe,9,9,人造物,artificial object,服饰,dress,0.731462706
+长裙,长裙,longuette,9,9,人造物,artificial object,服饰,dress,0.701648667
+长袖,长袖,Long sleeves,9,9,人造物,artificial object,服饰,dress,0.687467371
+帐篷,帐篷,Tent,9,9,人造物,artificial object,工具,tool,0.61889537
+照片,照片,Photo,9,9,人造物,artificial object,工具,tool,0.69028498
+折叠椅,折叠椅,Folding chair,9,9,人造物,artificial object,家具,furniture,0.716706539
+蔗糖,蔗糖,sucrose,9,9,食物,food,调料,seasoning,0.711901452
+鹧鸪,鹧鸪,Partridge,5.67,9,动物,animal,鸟,bird,0.807554033
+针,针,needle,9,9,人造物,artificial object,工具,tool,0.78457265
+针线篮,针线篮,Sewing basket,9,9,人造物,artificial object,工具,tool,0.567923399
+珍珠,珍珠,Pearl,9,9,自然物,natural object,自然物,natural object,0.673711909
+枕套,枕套,Pillow case,9,9,人造物,artificial object,家具,furniture,0.660547836
+枕头,枕头,Pillow,9,9,人造物,artificial object,家具,furniture,0.709479284
+蒸汽机,蒸汽机,steam engine,8.67,9,人造物,artificial object,工具,tool,0.621885455
+正装,正装,Formal wear,9,9,人造物,artificial object,服饰,dress,0.647450572
+芝麻,芝麻,sesame,9,9,食物,food,固态干粮,solid food,0.737971295
+芝士蛋糕,芝士蛋糕,Cheese Cake,9,9,食物,food,固态干粮,solid food,0.73727422
+知更鸟,知更鸟,Robins,8.33,9,动物,animal,鸟,bird,0.802050518
+栀子花,栀子花,Gardenia,9,9,植物,plant,花草,flower,0.7982053
+蜘蛛,蜘蛛,spider,9,9,动物,animal,昆虫,insect,0.800267323
+直立式钢琴,直立式钢琴,Upright piano,9,9,人造物,artificial object,乐器,musical instrument,0.6685275
+直升机,直升机,helicopter,9,9,交通工具,transportation,飞机,aircraft,0.688410593
+止血剂,止血剂,Hemostatic Agents,8.67,9,人造物,artificial object,医疗用品,medical supplies,0.446997549
+纸,纸,paper,9,9,人造物,artificial object,工具,tool,0.633654855
+纸巾,纸巾,tissue,9,9,人造物,artificial object,工具,tool,0.623615038
+指挥棒,指挥棒,Baton,9,9,人造物,artificial object,工具,tool,0.594920036
+指甲,指甲,nail,9,9,身体部位,body part,身体部位,body part,0.722922877
+指甲锉,指甲锉,Nail file,9,9,人造物,artificial object,工具,tool,0.619697893
+指甲油,指甲油,Nail Polish,9,9,人造物,artificial object,工具,tool,0.725049088
+指南针,指南针,Compass,9,8.67,人造物,artificial object,工具,tool,0.674585227
+指纹,指纹,fingerprint,9,8,身体部位,body part,身体部位,body part,0.43528246
+制服,制服,uniform,9,9,人造物,artificial object,服饰,dress,0.705646219
+痣,痣,nevus,9,9,身体部位,body part,身体部位,body part,0.519295519
+中山装,中山装,Chinese tunic suit,9,9,人造物,artificial object,服饰,dress,0.75242563
+中提琴,中提琴,Viola,8.67,9,人造物,artificial object,乐器,musical instrument,0.641682387
+钟,钟,clock,9,9,人造物,artificial object,工具,tool,0.665255778
+粥,粥,Porridge,9,9,食物,food,酒水饮料,drinks,0.727736109
+猪,猪,pig,9,9,动物,animal,陆生动物,terrestrial animal,0.746793719
+猪笼草,猪笼草,Nepenthes,9,9,植物,plant,花草,flower,0.74544959
+猪肉,猪肉,pork,9,9,食物,food,肉食,meat,0.724492825
+竹节虫,竹节虫,stick insect,8.33,9,动物,animal,昆虫,insect,0.763524598
+竹子,竹子,Bamboo,9,9,植物,plant,树木,tree,0.753263403
+烛台,烛台,Candlestick,9,9,人造物,artificial object,工具,tool,0.58568965
+煮蛋器,煮蛋器,Egg Cooker,9,9,人造物,artificial object,电器,electric appliance,0.578351247
+助听器,助听器,Deaf-aid,9,9,人造物,artificial object,电器,electric appliance,0.696031617
+注射器,注射器,Syringe,9,9,人造物,artificial object,医疗用品,medical supplies,0.620480439
+蛀虫,蛀虫,moth,9,9,动物,animal,昆虫,insect,0.617376131
+砖头,砖头,brick,9,9,人造物,artificial object,工具,tool,0.705777214
+桌布,桌布,tablecloth,9,9,人造物,artificial object,家具,furniture,0.651209638
+啄木鸟,啄木鸟,Woodpecker,9,9,动物,animal,鸟,bird,0.809698799
+子弹,子弹,Bullet,9,9,人造物,artificial object,武器,weapon,0.649458295
+自动步枪,自动步枪,Automatic rifle,8.67,9,人造物,artificial object,武器,weapon,0.62658975
+自动扶梯,自动扶梯,Escalator,9,9,人造物,artificial object,电器,electric appliance,0.59630154
+自动售货机,自动售货机,vending machine,9,9,人造物,artificial object,电器,electric appliance,0.617805923
+自行车,自行车,Bicycle,9,9,交通工具,transportation,车,vehicle,0.693142501
+字典,字典,Dictionaries,9,8.67,人造物,artificial object,工具,tool,0.631451115
+钻石,钻石,Diamonds,9,9,自然物,natural object,自然物,natural object,0.708920653
+嘴唇,嘴唇,Lip,9,9,身体部位,body part,身体部位,body part,0.73099331
+座垫,座垫,Cushion,9,9,人造物,artificial object,家具,furniture,0.545164863
