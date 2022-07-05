@@ -190,14 +190,14 @@ def addUpperCategory():  #
 #以下为数据读写
 if __name__ == '__main__':
     #addUserBigram()
-    #addUpperCategory()
-    #addSubCategory()
-    #addConcept()
+    addUpperCategory()
+    addSubCategory()
+    addConcept()
     addRelation()
     #addBigram()
     #addUserConceptTest()
     #addUserConceptLearn()
-    #addConceptSimi()
+    addConceptSimi()
     print(0)
 
 
