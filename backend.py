@@ -48,6 +48,21 @@ def Experiment_Progress():
     experiment_progress = Quary.getExperimentMangement(user_id)
     return experiment_progress
 
+@app.route("/testDateChart",methods=['GET','POST'])
+def Test_DateChart():
+    if not request.json:
+        abort(400)
+    user_id=request.json
+    test_datechart = Quary.getDateChart(user_id)
+    return test_datechart
+
+@app.route("/testCategoryChart",methods=['GET','POST'])
+def Test_CategoryChart():
+    if not request.json:
+        abort(400)
+    test_categorychart = Quary.getCategoryChart(request.json)
+    return test_categorychart
+
 # replace this with test record data
 @app.route("/fullRecord",methods=['GET','POST'])
 # @cross_origin(origin='*',headers=['Content-Type','Authorization'])

@@ -1,5 +1,8 @@
 from flask import Flask, json, jsonify
 from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy import func
+from sqlalchemy import distinct
+
 import pandas as pd
 from numpy import *
 
@@ -253,14 +256,87 @@ def getExperimentMangement(userid):
     print('SFA记录：',SFA)
     return SFA
 
+def getDateChart(userid):
+    #userid=1
+    dateData = db.session.query(func.count(userConceptTest.user_id),userConceptTest.state, userConceptTest.createDate) \
+        .filter(userConceptTest.user_id == userid) \
+        .group_by(userConceptTest.createDate,userConceptTest.state)\
+        .all()
+    print('dateData结果是:', dateData)
+
+    dateChart = {"testDate":[]} # 字典型数据
+    results={0:"命名失败",1:"命名成功",2:"语义提示",3:"语音提示"}
+    for record in dateData:
+        #print(record)
+
+        dateChart["testDate"].append({
+            'date':record[2].__format__('%Y-%m-%d'),
+            'result': results.get(record[1],None),
+            'value':record[0]
+        })
+    print('dateChart记录：',dateChart)
+    return dateChart
+
+def getCategoryChart(request):
+    # categoryChartRequest = {"user_id": 1, "date": ["2022-05-13", "2022-05-20"]}
+    # 前端传参过来之后，函数内变量初始化
+    userid=request['user_id']
+    dateMin = request['date'][0]
+    dateMax=request['date'][1]
+    print(dateMin,dateMax)
+
+    #计算各个upperCategory+userConceptTest下的数量
+    CategoryData = db.session.query(func.count(userConceptTest.user_id), userConceptTest.state, upperCategory.upper_cat) \
+        .join(concept,userConceptTest.concept_id==concept.id)\
+        .join(upperCategory,concept.upper_cat_id==upperCategory.id)\
+        .filter(userConceptTest.user_id == userid) \
+        .filter(userConceptTest.createDate>dateMin) \
+        .filter(userConceptTest.createDate<dateMax) \
+        .group_by(upperCategory.upper_cat, userConceptTest.state) \
+        .all()
+    print('CategoryData结果是:', CategoryData)
+
+    #计算每个category大类里的数量
+    upperCategory1 = db.session.query(func.count(userConceptTest.user_id), upperCategory.upper_cat) \
+        .join(concept, userConceptTest.concept_id == concept.id) \
+        .join(upperCategory, concept.upper_cat_id == upperCategory.id) \
+        .filter(userConceptTest.user_id == userid) \
+        .filter(userConceptTest.createDate > dateMin) \
+        .filter(userConceptTest.createDate < dateMax) \
+        .group_by(upperCategory.upper_cat) \
+        .all()
+    upperCategory2 = {}  # 字典型数据
+    for record in upperCategory1:
+        # print(record)
+        upperCategory2[record[1]]=record[0]
+    print('upperCategory结果是:',upperCategory2)
+
+    categoryChart = {"testCategory": []}  # 字典型数据
+    results = {0: "命名失败", 1: "命名成功", 2: "语义提示", 3: "语音提示"}
+    for record in CategoryData:
+        # print(record)
+        categoryChart["testCategory"].append({
+            'maincategory': record[2],
+            'result': results.get(record[1], None),
+            'value': record[0],
+            'percent':record[0]/upperCategory2[record[2]]
+        })
+    print('categoryChart记录：', categoryChart)
+    return categoryChart
 
 if __name__ == "__main__":
     user_id = 1
-    testRecord = {'user_name': '张三', 'name': '自行车', 'result': 4, 'createDate': '2022-6-5', 'time': 10}
-    therapyRecord = {'user_name': '张三', 'name': '自行车', 'result': 4, 'createDate': '2022-6-5',
-              'reaction': [{"relationship": "属于", "feature": "交通工具"}, {"relationship": "用于", "feature": "驾驶"}]}
     #getFullRecord(user_id)
-    #getExperimentMangement(userid)
+    #getDateChart(user_id)
+    #getExperimentMangement(user_id)
+
+    testRecord = {'user_name': '张三', 'name': '自行车', 'result': 4, 'createDate': '2022-6-5', 'time': 10}
     #addConceptTest(testRecord)
-    addTherapyResult(therapyRecord)
+
+    therapyRecord = {'user_name': '张三', 'name': '自行车', 'result': 4, 'createDate': '2022-6-5',
+                     'reaction': [{"relationship": "属于", "feature": "交通工具"}, {"relationship": "用于", "feature": "驾驶"}]}
+    #addTherapyResult(therapyRecord)
+
+    categoryChartRequest={"user_id":1,"date": ["2022-05-13", "2022-07-20"]}
+    getCategoryChart(categoryChartRequest)
 
